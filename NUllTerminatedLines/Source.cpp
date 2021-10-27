@@ -1,4 +1,4 @@
-#include<iostream>
+п»ї#include<iostream>
 #include<Windows.h>
 #include<conio.h>
 using namespace std;
@@ -6,7 +6,7 @@ using namespace std;
 #define tab "\t"
 #define Escape 27
 
-int StringLenght(char str[]);//Принимаепт строку и  возвращает размер строки(кол-во символов в строке);
+int StringLenght(char str[]);//РџСЂРёРЅРёРјР°РµРїС‚ СЃС‚СЂРѕРєСѓ Рё  РІРѕР·РІСЂР°С‰Р°РµС‚ СЂР°Р·РјРµСЂ СЃС‚СЂРѕРєРё(РєРѕР»-РІРѕ СЃРёРјРІРѕР»РѕРІ РІ СЃС‚СЂРѕРєРµ);
 
 //void main()
 //{
@@ -22,8 +22,8 @@ void main()
 {
 	setlocale(LC_ALL, "Ru");
 	char key;
-	SetConsoleCP(1251);	//Выставляет кодировку на ввод
-	SetConsoleOutputCP(1251);//Выставляет кодировку на вывод	
+	SetConsoleCP(1251);	//Р’С‹СЃС‚Р°РІР»СЏРµС‚ РєРѕРґРёСЂРѕРІРєСѓ РЅР° РІРІРѕРґ
+	SetConsoleOutputCP(1251);//Р’С‹СЃС‚Р°РІР»СЏРµС‚ РєРѕРґРёСЂРѕРІРєСѓ РЅР° РІС‹РІРѕРґ	
 	//char str[] = { 'H','e','l','l','o',0};
 	/*char str[] = "Hello";
 	cout << str << endl;
@@ -31,7 +31,7 @@ void main()
 	cout << sizeof(str) << endl;*/
 	const int n = 20;
 	char str[n] = {};
-	cout << "Введите строку: ";
+	cout << "Р’РІРµРґРёС‚Рµ СЃС‚СЂРѕРєСѓ: ";
 	//cin >> str;
 	cin.getline(str, n);
 	//SetConsoleCP(866);
