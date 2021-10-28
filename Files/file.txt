@@ -1,0 +1,3191 @@
+HelloWorld!
+
+<!DOCTYPE html>
+<html lang="ru-RU" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="initial-scale=1.0" />
+<title>Главная - 5лицей.рф</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://5лицей.рф/xmlrpc.php" />
+
+<!-- This site is optimized with the Yoast SEO plugin v7.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://5лицей.рф/" />
+<meta property="og:locale" content="ru_RU" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Главная - 5лицей.рф" />
+<meta property="og:description" content="ЛИЦЕЮ &nbsp;" />
+<meta property="og:url" content="http://5лицей.рф/" />
+<meta property="og:site_name" content="5лицей.рф" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="ЛИЦЕЮ &nbsp;" />
+<meta name="twitter:title" content="Главная - 5лицей.рф" />
+<script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/5\u043b\u0438\u0446\u0435\u0439.\u0440\u0444\/","name":"5\u043b\u0438\u0446\u0435\u0439.\u0440\u0444","potentialAction":{"@type":"SearchAction","target":"http:\/\/5\u043b\u0438\u0446\u0435\u0439.\u0440\u0444\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//5лицей.рф' />
+<link rel='dns-prefetch' href='//platform-api.sharethis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="5лицей.рф &raquo; Лента" href="http://5лицей.рф/feed/" />
+<link rel="alternate" type="application/rss+xml" title="5лицей.рф &raquo; Лента комментариев" href="http://5лицей.рф/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/5\u043b\u0438\u0446\u0435\u0439.\u0440\u0444\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.4"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wpts_ui_css-css'  href='http://5лицей.рф/wp-content/plugins/wordpress-post-tabs/css/styles/default/style.css?ver=1.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='css-style-css'  href='http://5лицей.рф/wp-content/plugins/comfortable-reading/css/custom.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://5лицей.рф/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css'  href='http://5лицей.рф/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox.min.css?ver=1.3.9' type='text/css' media='screen' />
+<link rel='stylesheet' id='wp-polls-css'  href='http://5лицей.рф/wp-content/plugins/wp-polls/polls-css.css?ver=2.73.8' type='text/css' media='all' />
+<style id='wp-polls-inline-css' type='text/css'>
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 8px;
+	line-height: 10px;
+	height: 10px;
+	background-image: url('http://5лицей.рф/wp-content/plugins/wp-polls/images/default_gradient/pollbg.gif');
+	border: 1px solid #c8c8c8;
+}
+
+</style>
+<link rel='stylesheet' id='wp-pagenavi-css'  href='http://5лицей.рф/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='frontier-font-css'  href='//fonts.googleapis.com/css?family=Roboto+Condensed%3A400%2C700%7CArimo%3A400%2C700&#038;ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='frontier-icon-css'  href='http://5лицей.рф/wp-content/themes/frontier/includes/genericons/genericons.css?ver=1.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='frontier-main-css'  href='http://5лицей.рф/wp-content/themes/frontier/style.css?ver=1.2.4' type='text/css' media='all' />
+<link rel="icon" href="http://5лицей.рф/wp-content/uploads/2015/10/favicon3.png" type="image/x-icon" />
+<script type='text/javascript' src='http://5лицей.рф/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://5лицей.рф/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#product=ga'></script>
+<link rel='https://api.w.org/' href='http://5лицей.рф/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://5лицей.рф/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://5лицей.рф/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.4" />
+<link rel='shortlink' href='http://5лицей.рф/' />
+<link rel="alternate" type="application/json+oembed" href="http://5лицей.рф/wp-json/oembed/1.0/embed?url=http%3A%2F%2F5%D0%BB%D0%B8%D1%86%D0%B5%D0%B9.%D1%80%D1%84%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://5лицей.рф/wp-json/oembed/1.0/embed?url=http%3A%2F%2F5%D0%BB%D0%B8%D1%86%D0%B5%D0%B9.%D1%80%D1%84%2F&#038;format=xml" />
+<link rel="stylesheet" href="http://5лицей.рф/wp-content/plugins/wp-page-numbers/stylish/wp-page-numbers.css" type="text/css" media="screen" />
+<meta property="Frontier Theme" content="1.2.4" />
+<style type="text/css" media="screen">
+	#container 	{width: 1251px;}
+	#header 	{min-height: 0px;}
+	#content 	{width: 56%;}
+	#sidebar-left 	{width: 22%;}
+	#sidebar-right 	{width: 22%;}
+</style>
+
+<style type="text/css" media="screen">
+	.page-template-page-cs-php #content, .page-template-page-sc-php #content {width: 65%;}
+	.page-template-page-cs-php #sidebar-left, .page-template-page-sc-php #sidebar-left,
+	.page-template-page-cs-php #sidebar-right, .page-template-page-sc-php #sidebar-right {width: 35%;}
+	.page-template-page-scs-php #content {width: 56%;}
+	.page-template-page-scs-php #sidebar-left {width: 22%;}
+	.page-template-page-scs-php #sidebar-right {width: 22%;}
+</style>
+
+<!-- Custom Head Codes -->
+<script src='https://www.google.com/recaptcha/api.js'></script>
+<!-- Custom Head Codes End -->
+
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #afc8dd; background-image: url("http://5лицей.рф/wp-content/uploads/2017/02/fon.png"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: scroll; }
+</style>
+
+<!-- Custom CSS -->
+<style type="text/css" media="screen">
+#header {
+    min-height: 0px;
+    background-color: #2E6198;
+}
+#text-18.widget-header.frontier-widget.widget_text {
+    margin: auto;
+    padding: 10px;
+    float: right;
+}
+#text-14.widget-sidebar.frontier-widget.widget_text {
+    background-color: #FDE168;
+}
+#text-11.widget-footer.frontier-widget.widget_text {
+    background: transparent;
+    color:#fff;
+    border: none;
+    box-shadow: none;
+    line-height: 2;
+}
+#text-13.widget-footer.frontier-widget.widget_text {
+    background: transparent;
+    color:#fff;
+    border: none;
+    box-shadow: none;
+    line-height: 2;
+}
+#text-12.widget-footer.frontier-widget.widget_text {
+    background: transparent;
+    color:#fff;
+    border: none;
+    box-shadow: none;
+    line-height: 2;
+    margin-top: -10px;
+}
+#text-21.widget-header.frontier-widget.widget_text {
+    background: #FDE168;
+    margin: auto;
+    padding: 8px;
+    float: right;
+}
+li#menu-item-772.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-772 {
+    widht:110px;
+}
+#cr_widget a {
+    text-align: center;
+    font-family: 'PT Sans Narrow', sans-serif;
+    cursor: pointer;
+    background: #FDE168;
+    font-size: 14px;
+    padding: 10px 5px 10px;
+    color: #3E3939;
+}
+.su-posts-teaser-loop {
+    font-size: 20px;
+}
+#theme-link a {
+    display: none;
+}
+#post-1260.single-view .entry-byline {
+    display: none;
+}
+#post-1260 .entry-updated .link-prev a {
+    background-color: transparent;
+    border: none;
+    box-shadow: none;
+    display: none;
+}
+.huge_it_slideshow_dots_thumbnails_1 {
+    display: none;
+}
+#text-20.widget-before-post-content.frontier-widget.widget_text {
+    margin-top:-50px;
+}
+</style>
+<!-- Custom CSS End -->
+
+<script src='https://www.google.com/recaptcha/api.js'></script>
+</head>
+
+<body class="home page-template-default page page-id-675 custom-background">
+	
+	
+<div id="container" class="cf">
+	
+	
+			<div id="header" class="cf">
+			
+							<div id="header-logo">
+					<a href="http://5лицей.рф/"><img src="http://5лицей.рф/wp-content/uploads/2015/10/logo-e1444373796682.png" alt="5лицей.рф" /></a>
+				</div>
+			
+			<div id="text-9" class="widget-header frontier-widget widget_text">			<div class="textwidget"><p style="text-align: center; font-size: 15px; font-family: 'Roboto Condensed', Sans-serif; text-transform: uppercase;"><span style="color: #FDE168;">Муниципальное общеобразовательное автономное учреждение</span></p>
+<p style="text-align: center; font-size: 20px; font-family: 'Roboto Condensed', Sans-serif; text-transform: uppercase;"><span style="color: #FDE168;"> «Лицей №5 имени Героя Российской Федерации А.Ж. Зеленко» </span></p>
+<p style="text-align: center; font-size: 20px; font-family: 'Roboto Condensed', Sans-serif; text-transform: uppercase;"><span style="color:#FDE168;">г. Оренбурга</span></p>
+<img class="size-full wp-image-871 aligncenter" src="http://5лицей.рф/wp-content/uploads/2015/10/deti3.png" alt="deti" width="650" height="195" /></div>
+		</div><div id="text-10" class="widget-header frontier-widget widget_text">			<div class="textwidget"><p style="text-align: left; font-size: 17px; font-family: 'Roboto Condensed', Sans-serif; text-transform: uppercase;"><span style="color: #ffffff;">+7 (3532) 43-74-91(секретарь)</span></p>
+<p style="text-align: leftt; font-size: 17px; font-family: 'Roboto Condensed', Sans-serif; text-transform: uppercase;"><span style="color: #ffffff;"> +7 (3532) 43-74-90 (вахта)</span></p>
+<p style="text-align: left; font-size: 17px; font-family: 'Roboto Condensed', Sans-serif; text-transform: uppercase;"><span style="color: #ffffff;"> +7 (3532) 43-74-92 (нач. школа)</span></p>
+<p style="text-align: center;"><span style="color: #fde168;"><a href="https://maps.yandex.ru/?um=constructor:Sf0Bf0-AQnbLtLXKGVPTo1ajklGybXge" target="_blank"><img class="wp-image-732 aligncenter" src="http://5лицей.рф/wp-content/uploads/2015/10/karta2.png" alt="karta" width="30" height="30" /></a><a style="color: #ffe56e; font-weight: bold;font-size:12px;" href="https://maps.yandex.ru/?um=constructor:Sf0Bf0-AQnbLtLXKGVPTo1ajklGybXge" target="_blank">ПОКАЗАТЬ НА КАРТЕ</a></span></p></div>
+		</div>
+					</div>
+	
+			
+		<nav id="nav-main" class="cf drop">
+			
+							<a href="#" class="drop-toggle"><span class="genericon genericon-menu"></span></a>
+			
+			<ul id="menu-main" class="nav-main"><li id="menu-item-698" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-675 current_page_item menu-item-698"><a href="http://5лицей.рф/">Главная</a></li>
+<li id="menu-item-697" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-697"><a href="http://5лицей.рф/svedeniya-ob-obrazovatelnoj-organizatsii/">Сведения об образовательной организации</a>
+<ul class="sub-menu">
+	<li id="menu-item-766" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-766"><a href="http://5лицей.рф/svedeniya-ob-obrazovatelnoj-organizatsii/osnovnye-svedeniya/">Основные сведения</a></li>
+	<li id="menu-item-765" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-765"><a href="http://5лицей.рф/svedeniya-ob-obrazovatelnoj-organizatsii/struktura-i-organy-upravleniya-obrazovatelnoj-organizatsiej/">Структура и органы управления образовательной организацией</a></li>
+	<li id="menu-item-764" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-764"><a href="http://5лицей.рф/svedeniya-ob-obrazovatelnoj-organizatsii/dokumenty/">Документы</a></li>
+	<li id="menu-item-763" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-763"><a href="http://5лицей.рф/obrazovanie/">Образование</a></li>
+	<li id="menu-item-762" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-762"><a href="http://5лицей.рф/obrazovatelnye-standarty/">Образовательные стандарты</a></li>
+	<li id="menu-item-761" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-761"><a href="http://5лицей.рф/svedeniya-ob-obrazovatelnoj-organizatsii/rukovodstvo-pedagogicheskij-sostav/">Руководство. Педагогический (научно-педагогический) состав</a></li>
+	<li id="menu-item-760" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-760"><a href="http://5лицей.рф/svedeniya-ob-obrazovatelnoj-organizatsii/materialno-tehnicheskoe-obespechenie-i-osnashhennost-obrazovatelnogo-protsessa/">Материально-техническое обеспечение и оснaщенность образовательного процесса</a></li>
+	<li id="menu-item-759" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-759"><a href="http://5лицей.рф/svedeniya-ob-obrazovatelnoj-organizatsii/stipendii-i-osnovnye-vidy-materialnoj-podderzhki/">Стипендии и меры поддержки обучающихся</a></li>
+	<li id="menu-item-758" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-758"><a href="http://5лицей.рф/svedeniya-ob-obrazovatelnoj-organizatsii/platnye-obrazovatelnye-uslugi/">Платные образовательные услуги</a></li>
+	<li id="menu-item-6250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6250"><a href="http://5лицей.рф/ob-obeme-obrazovatelnoj-deyatelnosti-finansovoe-obespechenie-kotoroj-osushhestvlyaetsya-za-schet-byudzhetnyh-assignovanij-federalnogo-byudzheta-byudzhetov-subektov-rossijskoj-federatsii-mestnyh-byudzh/">Финансово-хозяйственная деятельность</a></li>
+	<li id="menu-item-756" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-756"><a href="http://5лицей.рф/svedeniya-ob-obrazovatelnoj-organizatsii/vakantnye-mesta-dlya-priema-perevoda/">Вакантные места для приема (перевода) обучающихся</a></li>
+	<li id="menu-item-13253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13253"><a href="http://5лицей.рф/dostupnaya-sreda/">Доступная среда</a></li>
+	<li id="menu-item-13252" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13252"><a href="http://5лицей.рф/mezhdunarodnoe-sotrudnichestvo/">Международное сотрудничество</a></li>
+</ul>
+</li>
+<li id="menu-item-1889" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1889"><a href="http://5лицей.рф/litseistam/vneuchebnaya-deyatelnost/">Воспитательная работа</a>
+<ul class="sub-menu">
+	<li id="menu-item-3770" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3770"><a href="http://5лицей.рф/proekt-rdsh/">РДШ</a></li>
+	<li id="menu-item-7193" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7193"><a href="http://5лицей.рф/dorozhnaya-bezopasnost/">Дорожная безопасность</a></li>
+	<li id="menu-item-6780" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6780"><a href="http://5лицей.рф/litseistam/moe-orenburzhe/">Мое Оренбуржье!</a></li>
+	<li id="menu-item-2078" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2078"><a href="http://5лицей.рф/litseistam/proforientatsionnaya-rabota/">Профориентационная работа</a></li>
+	<li id="menu-item-2863" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2863"><a href="http://5лицей.рф/uchenicheskoe-samoupravlenie/">Ученическое самоуправление</a></li>
+</ul>
+</li>
+<li id="menu-item-5078" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5078"><a href="http://5лицей.рф/personalnye-dannye/">Персональные данные</a></li>
+<li id="menu-item-4561" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4561"><a href="http://5лицей.рф/gosudarstvennaya-itogovaya-attestatsiya/">ГОСУДАРСТВЕННАЯ ИТОГОВАЯ АТТЕСТАЦИЯ</a>
+<ul class="sub-menu">
+	<li id="menu-item-5695" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5695"><a href="http://5лицей.рф/litseistam/regionalnyj-ekzamen-2017/">ВПР</a></li>
+	<li id="menu-item-8240" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8240"><a href="http://5лицей.рф/gia-11-klass/">ЕГЭ – 2021</a></li>
+	<li id="menu-item-8250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8250"><a href="http://5лицей.рф/oge-2019/">ОГЭ – 2021</a></li>
+	<li id="menu-item-7586" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7586"><a href="http://5лицей.рф/regionalnyj-ekzamen/">Региональный зачет по физкультуре</a></li>
+	<li id="menu-item-7602" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7602"><a href="http://5лицей.рф/regionalnyj-zachet/">Региональный публичный зачет по геометрии</a></li>
+</ul>
+</li>
+<li id="menu-item-696" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-696"><a href="http://5лицей.рф/roditelyam/">Родителям</a>
+<ul class="sub-menu">
+	<li id="menu-item-772" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-772"><a href="http://5лицей.рф/roditelyam/priyom-v-litsej/">Приём в лицей на 2021-2022 учебный год</a></li>
+	<li id="menu-item-4829" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4829"><a href="http://5лицей.рф/roditelyam-o-bezopasnosti-detej/">Родителям о безопасности детей</a></li>
+</ul>
+</li>
+<li id="menu-item-695" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-695"><a href="http://5лицей.рф/litseistam/">Лицеистам</a>
+<ul class="sub-menu">
+	<li id="menu-item-2450" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2450"><a href="http://5лицей.рф/olimpiady/">Олимпиады. Конкурсное движение</a></li>
+	<li id="menu-item-4568" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4568"><a href="http://5лицей.рф/vserossijskaya-olimpiada-shkolnikov/">ВСЕРОССИЙСКАЯ ОЛИМПИАДА ШКОЛЬНИКОВ</a></li>
+</ul>
+</li>
+<li id="menu-item-845" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-845"><a href="http://5лицей.рф/metod-kabinet/">Метод. кабинет</a>
+<ul class="sub-menu">
+	<li id="menu-item-1185" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1185"><a href="http://5лицей.рф/metod-kabinet/normativnye-dokumenty-po-organizatsii-metodicheskoj-raboty-v-oo/">Нормативные документы по организации деятельности методической службы ОО</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1184" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1184"><a href="http://5лицей.рф/metod-kabinet/normativnye-dokumenty-po-organizatsii-metodicheskoj-raboty-v-oo/normativnye-dokumenty-mo-rf-v-t-ch-po-prepodavaniyu-predmetov/">Действующие нормативные документы МО РФ, регламентирующие деятельность, направленную на получение начального общего, основного общего, среднего общего образования.Методические письма по преподаванию отдельных предметов</a></li>
+		<li id="menu-item-1183" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1183"><a href="http://5лицей.рф/metod-kabinet/normativnye-dokumenty-po-organizatsii-metodicheskoj-raboty-v-oo/dokumenty-ministerstva-obrazovaniya-orenburgskoj-oblasti/">Действующие документы министерства образования Оренбургской области, регламентирующие деятельность, направленную на получение начального общего, основного общего, среднего общего образования</a></li>
+		<li id="menu-item-1182" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1182"><a href="http://5лицей.рф/metod-kabinet/normativnye-dokumenty-po-organizatsii-metodicheskoj-raboty-v-oo/dokumenty-upravleniya-obrazovaniya-administratsii-g-orenburga/">Действующие документы управления образования администрации г. Оренбурга, регламентирующие деятельность, направленную на получение начального общего, основного общего, среднего общего образования</a></li>
+		<li id="menu-item-5173" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5173"><a href="http://5лицей.рф/dejstvuyushhie-dokumenty-obrazovatelnoj-organizatsii-otrazhayushhie-deyatelnost-metodicheskoj-sluzhby/">Действующие  документы образовательной организации, отражающие деятельность методической службы</a></li>
+	</ul>
+</li>
+	<li id="menu-item-5176" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5176"><a href="http://5лицей.рф/soderzhanie-metodicheskogo-kabineta/">Содержание методического кабинета</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1181" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1181"><a href="http://5лицей.рф/metod-kabinet/normativnye-dokumenty-po-organizatsii-metodicheskoj-raboty-v-oo/lokalnye-akty/">Локальные нормативные акты</a></li>
+		<li id="menu-item-5180" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5180"><a href="http://5лицей.рф/materialy-po-attestatsii-pedagogov/">Материалы по аттестации педагогов</a></li>
+		<li id="menu-item-5183" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5183"><a href="http://5лицей.рф/materialy-po-povysheniyu-kvalifikatsii-kadrov/">Материалы по повышению квалификации кадров</a></li>
+		<li id="menu-item-1202" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1202"><a href="http://5лицей.рф/metod-kabinet/rabota-s-pedagogicheskimi-kadrami/bank-dannyh-o-pedagogicheskih-kadrah-litseya/">Банк данных о педагогических кадрах лицея</a></li>
+		<li id="menu-item-1200" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1200"><a href="http://5лицей.рф/metod-kabinet/rabota-s-pedagogicheskimi-kadrami/materialy-po-rabote-s-molodymi-spetsialistami/">Материалы по работе с молодыми специалистами</a></li>
+		<li id="menu-item-5186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5186"><a href="http://5лицей.рф/bank-dannyh-po-obobshheniyu-pozitivnogo-pedagogicheskogo-opyta-disseminatsiya-opyta-metodicheskoj-raboty-oo/">Банк данных по обобщению позитивного педагогического опыта. Диссеминация опыта методической работы ОО</a></li>
+		<li id="menu-item-5189" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5189"><a href="http://5лицей.рф/metodicheskie-rekomendatsii-shemy-pamyatki-po-prepodavaniyu-predmetov-analizu-i-samoanalizu-urokov-vneurochnyh-zanyatij/">Методические рекомендации, схемы, памятки  по преподаванию предметов, анализу и самоанализу уроков, внеурочных занятий</a></li>
+		<li id="menu-item-5192" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5192"><a href="http://5лицей.рф/http-5litsej-rf-gosudarstvennaya-itogovaya-attestatsiya/">Методическое сопровождение подготовки к ГИА</a></li>
+		<li id="menu-item-5210" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5210"><a href="http://5лицей.рф/obraztsy-uchebnoj-dokumentatsii/">Образцы учебной документации</a></li>
+		<li id="menu-item-5209" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5209"><a href="http://5лицей.рф/?page_id=5195">Материалы по профильному и предпрофильному образованию</a></li>
+		<li id="menu-item-5208" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5208"><a href="http://5лицей.рф/materialy-po-olimpiadnomu-i-konkursnomu-dvizheniyu/">Материалы по олимпиадному и конкурсному движению</a></li>
+		<li id="menu-item-5207" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5207"><a href="http://5лицей.рф/ukomplektovannost-tehnicheskim-oborudovaniem/">Укомплектованность техническим оборудованием</a></li>
+		<li id="menu-item-5206" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5206"><a href="http://5лицей.рф/metodicheskie-zhurnaly-i-pechatnye-izdaniya/">Методические журналы и печатные издания</a></li>
+		<li id="menu-item-5205" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5205"><a href="http://5лицей.рф/inklyuzivnoe-obrazovanie-i-obuchenie-detej-s-ovz/">Инклюзивное образование и обучение детей с ОВЗ</a></li>
+		<li id="menu-item-1180" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1180"><a href="http://5лицей.рф/metod-kabinet/normativnye-dokumenty-po-organizatsii-metodicheskoj-raboty-v-oo/uchebnye-obrazovatelnye-programmy-po-predmetam/">Учебные (образовательные) программы по предметам</a></li>
+		<li id="menu-item-5446" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5446"><a href="http://5лицей.рф/materialy-pedagogicheskih-sovetov/">Материалы педагогических советов</a></li>
+		<li id="menu-item-5449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5449"><a href="http://5лицей.рф/metodicheskoe-soprovozhdenie-fgos/">Методическое сопровождение ФГОС</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1203" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1203"><a href="http://5лицей.рф/metod-kabinet/rabota-s-pedagogicheskimi-kadrami/">Деятельность методического совета</a></li>
+	<li id="menu-item-1227" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1227"><a href="http://5лицей.рф/metod-kabinet/didaktiko-metodicheskie-rekomendatelno-metodicheskie-i-prakticheskie-materialy/">Деятельность методических объединений</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1226"><a href="http://5лицей.рф/materialy-po-organizatsii-deyatelnosti-metodicheskogo-soveta/">МО учителей начальных классов</a></li>
+		<li id="menu-item-1225" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1225"><a href="http://5лицей.рф/metod-kabinet/didaktiko-metodicheskie-rekomendatelno-metodicheskie-i-prakticheskie-materialy/metodicheskie-obedineniya/">МО учителей русского языка и литературы</a></li>
+		<li id="menu-item-5227" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5227"><a href="http://5лицей.рф/mo-uchitelej-inostrannogo-yazyka/">МО учителей иностранного языка</a></li>
+		<li id="menu-item-5226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5226"><a href="http://5лицей.рф/mo-uchitelej-matematiki/">МО учителей математики</a></li>
+		<li id="menu-item-5248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5248"><a href="http://5лицей.рф/mo-uchitelej-informatiki/">МО учителей информатики</a></li>
+		<li id="menu-item-5247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5247"><a href="http://5лицей.рф/mo-uchitelej-obshhestvenno-nauchnyh-predmetov/">МО учителей общественно-научных предметов</a></li>
+		<li id="menu-item-5246" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5246"><a href="http://5лицей.рф/mo-uchitelej-estestvenno-nauchnyh-predmetov/">МО учителей естественно-научных предметов</a></li>
+		<li id="menu-item-5245" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5245"><a href="http://5лицей.рф/mo-uchitelej-hudozhestvenno-esteticheskogo-tsikla/">МО учителей художественно-эстетического цикла</a></li>
+		<li id="menu-item-5244" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5244"><a href="http://5лицей.рф/mo-uchitelej-tehnologii/">МО учителей технологии</a></li>
+		<li id="menu-item-5243" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5243"><a href="http://5лицей.рф/mo-uchitelej-fizicheskoj-kultury-i-obzh/">МО учителей физической культуры и ОБЖ</a></li>
+		<li id="menu-item-1220" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1220"><a href="http://5лицей.рф/materialy-po-organizatsii-raboty-klassnogo-rukovoditelya/">Материалы по организации работы классного руководителя</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-701" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-701"><a href="http://5лицей.рф/kabinet-psihologa/">Кабинет психолога</a></li>
+<li id="menu-item-693" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-693"><a href="http://5лицей.рф/usloviya-obucheniya/">Условия обучения</a>
+<ul class="sub-menu">
+	<li id="menu-item-1073" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1073"><a href="http://5лицей.рф/bezopasnost/">Доступ к информационным системам и информационно-телекоммуникационным сетям</a></li>
+	<li id="menu-item-2952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2952"><a href="http://5лицей.рф/osnovy-bezopasnosti-zhiznedeyatelnosti/">ОСНОВЫ БЕЗОПАСНОСТИ ЖИЗНЕДЕЯТЕЛЬНОСТИ</a>
+	<ul class="sub-menu">
+		<li id="menu-item-4431" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4431"><a href="http://5лицей.рф/yunarmiya/">Юнармия</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1072" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1072"><a href="http://5лицей.рф/biblioteka/">Библиотека</a></li>
+	<li id="menu-item-1071" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1071"><a href="http://5лицей.рф/usloviya-obucheniya/meditsinskoe-obsluzhivanie/">Медицинское обслуживание</a></li>
+</ul>
+</li>
+<li id="menu-item-3896" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3896"><a href="http://5лицей.рф/obuchenie-detej-s-ovz/">ОВЗ</a>
+<ul class="sub-menu">
+	<li id="menu-item-4097" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4097"><a href="http://5лицей.рф/normativno-pravovye-dokumenty/">Нормативно-правовые документы</a></li>
+	<li id="menu-item-4104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4104"><a href="http://5лицей.рф/metodicheskoe-obespechenie/">Методическое обеспечение</a></li>
+	<li id="menu-item-4113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4113"><a href="http://5лицей.рф/kadrovoe-obespechenie/">Кадровое обеспечение</a></li>
+</ul>
+</li>
+<li id="menu-item-8130" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8130"><a href="http://5лицей.рф/informatsionnaya-bezopasnost/">Информационная безопасность</a>
+<ul class="sub-menu">
+	<li id="menu-item-8135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8135"><a href="http://5лицей.рф/roditelyam-2/">Родителям</a></li>
+	<li id="menu-item-8136" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8136"><a href="http://5лицей.рф/obuchayushhimsya/">Обучающимся</a></li>
+</ul>
+</li>
+<li id="menu-item-9800" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9800"><a href="http://5лицей.рф/pradedy-dedy-soldaty-pobedy/">Прадеды, деды – солдаты Победы</a></li>
+<li id="menu-item-11376" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11376"><a href="http://5лицей.рф/leto-2020/">Лето – 2021</a></li>
+<li id="menu-item-12502" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12502"><a href="http://5лицей.рф/vospitatelnaya-rabota-onlajn/">Воспитательная работа онлайн</a></li>
+<li id="menu-item-12660" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12660"><a href="http://5лицей.рф/profilaktika-covid-19/">Профилактика COVID-19</a></li>
+<li id="menu-item-13337" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13337"><a href="http://5лицей.рф/shkolnyj-sportivnyj-klub/">Школьный спортивный клуб</a></li>
+<li id="menu-item-13579" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13579"><a href="http://5лицей.рф/elektronnyj-zhurnal/">Электронный журнал</a></li>
+<li id="menu-item-14275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14275"><a href="http://5лицей.рф/food/">food</a></li>
+<li id="menu-item-14757" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-14757"><a href="http://5лицей.рф/funktsionalnaya-gramotnost/">Функциональная грамотность</a>
+<ul class="sub-menu">
+	<li id="menu-item-14762" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14762"><a href="http://5лицей.рф/obshhaya-informatsiya/">Общая информация</a></li>
+	<li id="menu-item-14761" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14761"><a href="http://5лицей.рф/bank-zadanij/">Банк заданий</a></li>
+	<li id="menu-item-14760" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14760"><a href="http://5лицей.рф/dokumenty/">Документы</a></li>
+	<li id="menu-item-14759" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14759"><a href="http://5лицей.рф/meropriyatiya/">Мероприятия</a></li>
+	<li id="menu-item-14758" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14758"><a href="http://5лицей.рф/dopolnitelnaya-informatsiya-2/">Дополнительная информация</a></li>
+</ul>
+</li>
+<li id="menu-item-14867" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14867"><a href="http://5лицей.рф/kanikuly-onlajn/">Каникулы онлайн</a></li>
+</ul>
+					</nav>
+	
+	
+<div id="main" class="col-scs cf">
+
+<div id="content" class="cf">
+
+	
+	
+	
+	
+					
+<article id="post-675" class="single-view post-675 page type-page status-publish hentry">
+
+
+<header class="entry-header cf">
+		<h1 class="entry-title"><a href="http://5лицей.рф/">Главная</a></h1>
+	</header>
+
+<div class="entry-byline cf">
+	
+	
+	
+	
+	
+	
+	</div>
+
+<div class="entry-content cf">
+	
+	<div id="widgets-wrap-before-post-content" class="cf"><div id="text-18" class="widget-before-post-content frontier-widget widget_text">			<div class="textwidget"><form><input type="button" value="<< Назад"onClick="history.back()"></form></div>
+		</div><div id="text-20" class="widget-before-post-content frontier-widget widget_text">			<div class="textwidget"><p style="text-align: right;"><a href="http://5лицей.рф/" class="su-button su-button-style-soft" style="color:#fff;background-color:#2A5A8E;border-color:#224872;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_self"><span style="color:#fff;padding:5px 14px;font-size:12px;line-height:18px;border-color:#6a8cb0;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="fa fa-home" style="font-size:12px;color:#fff"></i> На главную</span></a></div>
+		</div></div>
+	
+	<style>
+		/***<add>***/
+		#huge_it_loading_image_3 {
+			height:350px;
+			width:600px;
+			display: table-cell;
+			text-align: center;
+			vertical-align: middle;
+		}
+		#huge_it_loading_image_3.display {
+			display: table-cell;
+		}
+		#huge_it_loading_image_3.nodisplay {
+			display: none;
+		}
+		#huge_it_loading_image_3 img {
+			margin: auto 0;
+			width: 20% !important;
+
+		}
+
+		.huge_it_slideshow_image_wrap_3 {
+			height:350px;
+			width:600px;
+			max-width: calc(100% - 0px);
+			position:relative;
+			display: block;
+			text-align: center;
+			/*HEIGHT FROM HEADER.PHP*/
+			clear:both;
+
+		float:none; margin:0px auto;			border-style: solid;
+			border-left: 0 !important;
+			border-right: 0 !important;
+		opacity:0		}
+
+		.huge_it_slideshow_image_wrap1_3.display {
+			width: 100%;
+			height: 100%;
+		}
+
+		.huge_it_slideshow_image_wrap1_3.display {
+			display: block;
+		}
+
+		.huge_it_slideshow_image_wrap1_3.nodisplay {
+			opacity: 0;
+		}
+
+		.huge_it_slideshow_image_wrap_3 * {
+			box-sizing: border-box;
+			-moz-box-sizing: border-box;
+			-webkit-box-sizing: border-box;
+		}
+
+		.huge_it_slideshow_image_3 {
+		 width: 100%;
+			height: 100%;
+		 max-width: 100%;
+			max-height: 100%;
+
+		}
+		.huge_it_slideshow_image_wrap1_3{
+			height:350px;
+			width:600px;
+			max-width: 100%;
+		}
+		#huge_it_slideshow_left_3,
+		#huge_it_slideshow_right_3 {
+			cursor: pointer;
+			display:none;
+			height: 100%;
+			outline: medium none;
+			position: absolute;
+			z-index: 13;
+					margin-top: 0 !important;
+			top: 50%;
+			transform: translateY(-50%);
+				}
+
+		#huge_it_slideshow_left-ico_3,
+		#huge_it_slideshow_right-ico_3 {
+			z-index: 13;
+			-moz-box-sizing: content-box;
+			box-sizing: content-box;
+			cursor: pointer;
+			display: table;
+			left: -9999px;
+			line-height: 0;
+			margin-top: -15px;
+			position: absolute;
+			top: 50%;
+			/*z-index: 10135;*/
+		}
+		#huge_it_slideshow_left-ico_3:hover,
+		#huge_it_slideshow_right-ico_3:hover {
+			cursor: pointer;
+		}
+
+		.huge_it_slideshow_image_container_3 {
+			display: table;
+			position: relative;
+			top:0;
+			left:0;
+			text-align: center;
+			vertical-align: middle;
+			width:100%;
+			overflow:hidden;
+			height: 100%;
+		}
+
+		.huge_it_slideshow_title_text_3 {
+			text-decoration: none;
+			position: absolute;
+			z-index: 11;
+			display: inline-block;
+		 width: 24%;
+			/*height:
+		44 %;*/
+
+		right:3%;top:3%; padding: 2%;
+			text-align: right;
+			font-weight: bold;
+			color: #000000;
+
+			background: rgba(255,255,255,0.7)  !important;
+			border-style: solid;
+			font-size: 13px;
+			border-width: 0px;
+			border-color: #ffffff;
+			border-radius: 4px;
+		}
+
+		.huge_it_slideshow_description_text_3 {
+			text-decoration: none;
+			position: absolute;
+			z-index: 11;
+			border-style:solid;
+			display: inline-block;
+		
+			width:64%;
+			/*height:44%;*/
+		right:3%;bottom:3%;			padding:3%;
+			text-align:justify;
+			color:#ffffff;
+
+			background:rgba(0,0,0,0.7) !important;
+			border-style:solid;
+			font-size:13px;
+			border-width:0px;
+			border-color:#ffffff;
+			border-radius:0px;
+		}
+
+		.huge_it_slideshow_title_text_3.none, .huge_it_slideshow_description_text_3.none,
+		.huge_it_slideshow_title_text_3.hidden, .huge_it_slideshow_description_text_3.hidden	   {display:none;}
+
+		.huge_it_slideshow_title_text_3 h1, .huge_it_slideshow_description_text_3 h1,
+		.huge_it_slideshow_title_text_3 h2, .huge_it_slideshow_title_text_3 h2,
+		.huge_it_slideshow_title_text_3 h3, .huge_it_slideshow_title_text_3 h3,
+		.huge_it_slideshow_title_text_3 h4, .huge_it_slideshow_title_text_3 h4,
+		.huge_it_slideshow_title_text_3 p, .huge_it_slideshow_title_text_3 p,
+		.huge_it_slideshow_title_text_3 strong,  .huge_it_slideshow_title_text_3 strong,
+		.huge_it_slideshow_title_text_3 span, .huge_it_slideshow_title_text_3 span,
+		.huge_it_slideshow_title_text_3 ul, .huge_it_slideshow_title_text_3 ul,
+		.huge_it_slideshow_title_text_3 li, .huge_it_slideshow_title_text_3 li {
+			padding:2px;
+			margin:0;
+		}
+
+		.huge_it_slide_container_3 {
+			display: table-cell;
+			margin: 0 auto;
+			position: relative;
+			vertical-align: middle;
+			width:100%;
+			height:100%;
+			_width: inherit;
+			_height: inherit;
+		}
+		.huge_it_slide_bg_3 {
+			margin: 0 auto;
+			width:100%;
+			height:100%;
+			_width: inherit;
+			_height: inherit;
+		}
+		.huge_it_slide_bg_3 li img{
+			position: absolute;
+					/*top: -0px !important;
+                    left: -0px !important;*/
+			left:0;
+					height: 100%;
+		}
+		.huge_it_slide_bg_3 li iframe{
+			width: 100%;
+			height: 100%;
+		}
+		.huge_it_slider_3 {
+			width:100%;
+			height:100%;
+			display:table !important;
+			padding:0 !important;
+			margin:0 !important;
+
+		}
+		.huge_it_slideshow_image_item_3 {
+			width:100%;
+			height:100%;
+			_width: inherit;
+			_height: inherit;
+			display: table-cell;
+			filter: Alpha(opacity=100);
+			opacity: 1;
+			position: absolute !important;
+			top:0 !important;
+			left:0 !important;
+			vertical-align: middle;
+			z-index: 1;
+			margin:0 !important;
+			padding:0 !important;
+			overflow: hidden !important;
+			border-radius: 0px !important;
+		}
+		.huge_it_slideshow_image_second_item_3 {
+			width:100%;
+			height:100%;
+			_width: inherit;
+			_height: inherit;
+			display: table-cell;
+			filter: Alpha(opacity=0);
+			opacity: 0;
+			position: absolute !important;
+			top:0 !important;
+			left:0 !important;
+			vertical-align: middle;
+			overflow:hidden;
+			margin:0 !important;
+			visibility:visible !important;
+			padding:0 !important;
+			border-radius: 0px !important;
+		}
+		.huge_it_slideshow_image_second_item_3 a, .huge_it_slideshow_image_item_3 a {
+			display:block;
+			width:100%;
+			height:100%;
+		}
+
+		.huge_it_grid_3 {
+			display: none;
+			height: 100%;
+			overflow: hidden;
+			position: absolute;
+			width: 100%;
+		}
+		.huge_it_gridlet_3 {
+			opacity: 1;
+			filter: Alpha(opacity=100);
+			position: absolute;
+		}
+		.huge_it_slideshow_dots_container_3 {
+			display: table;
+			position: absolute;
+			width:100% !important;
+			height:100% !important;
+		}
+		.huge_it_slideshow_dots_thumbnails_3 {
+			margin: 0 auto;
+			overflow: hidden;
+			position: absolute;
+			width:100%;
+			height:30px;
+		}
+
+		.huge_it_slideshow_dots_3 {
+			display: inline-block;
+			position: relative;
+			cursor: pointer;
+			box-shadow: 1px 1px 1px rgba(0,0,0,0.1) inset, 1px 1px 1px rgba(255,255,255,0.1);
+			width:10px;
+			height: 10px;
+			border-radius: 10px;
+			background: #00f;
+			margin: 10px;
+			overflow: hidden;
+			z-index: 17;
+		}
+
+		.huge_it_slideshow_dots_active_3 {
+			opacity: 1;
+			filter: Alpha(opacity=100);
+		}
+		.huge_it_slideshow_dots_deactive_3 {
+
+		}
+
+		.huge_it_slideshow_image_wrap_3 {
+			background:#ffffff;
+			border-width:0px;
+			border-color:#ffffff;
+			border-radius:0px;
+		}
+		.huge_it_slideshow_image_wrap_3.nocolor {
+			background: transparent;
+		}
+
+		.huge_it_slideshow_dots_thumbnails_3 {
+					top:0; 		}
+
+		.huge_it_slideshow_dots_3 {
+			background:#000000;
+		}
+
+		.huge_it_slideshow_dots_active_3 {
+			background:#ffffff;
+		}
+
+				/*//////////////////////slider thunbnail styles start///////////////////////////*/
+
+		.bx-viewport {
+			height: 100px !important;
+			-webkit-transform: translatez(0);
+		}
+		.entry-content .huge_it_slideshow_image_wrap_3 a{
+			border-bottom: none !important;
+		}
+		.entry-content .huge_it_slideshow_image_wrap_3 li{
+			margin:0 !important;
+			padding: 0 !important;
+		}
+		.entry-content .huge_it_slideshow_image_wrap_3 ul{
+			list-style-type:none !important;
+			margin: 0 !important;
+			padding: 0 !important;
+		}
+		.bx-wrapper {
+			position: relative;
+			margin: 0 auto 0 auto;
+			padding: 0;
+			max-width: px !important;
+			*zoom: 1;
+			-ms-touch-action: pan-y;
+			touch-action: pan-y;
+		}
+		.huge_it_slideshow_thumbs_container_3{
+					display: none;
+				}
+		.huge_it_slideshow_thumbs_3{
+
+			margin: 0;
+		}
+		.huge_it_slideshow_thumbs_3 li{
+			display: inline-block;
+
+			height: 100px ;
+
+		}
+		.huge_it_slideshow_thumbnails_3 {
+			display: inline-block;
+			position: relative;
+			cursor: pointer;
+			background: #FFFFFF;
+			z-index: 17;
+			height: 100px;
+		}
+		.sl_thumb_img{
+			width: 100% !important;
+			height: 100% !important;
+			display: block;
+			margin: 0 auto;
+		}
+		.sl_thumb_img2{
+			height: 100% !important;
+			display: block;
+			margin: 0 auto;
+		}
+		.trans_back{
+			width: 100%;
+			height: 100%;
+			top:0;
+			position: absolute;
+			background:rgba(255,255,255,0.5);
+			transition: 0.3s ease;
+		}
+		.trans_back:hover{
+			background:none !important;
+		}
+		.play-icon.youtube {background:url(http://5лицей.рф/wp-content/plugins/slider-image/images/play.youtube.png) center center no-repeat;
+			width: 100%;
+			height: 100%;
+			top:0;
+			position: absolute;}
+
+		.play-icon.vimeo {background:url(http://5лицей.рф/wp-content/plugins/slider-image/images/play.vimeo.png) center center no-repeat;
+			width: 100%;
+			height: 100%;
+			top:0;
+			position: absolute;
+		}
+		.bx-wrapper {
+
+			border: 0 solid #fff;
+			background: #fff;
+		}
+
+		/*////////////slider thunbnail styles end//////////////*/
+
+				#huge_it_slideshow_left_3 {
+			left:0;
+			margin-top:-21px;
+			height:43px;
+			width:29px;
+			background:url(http://5лицей.рф/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) left  top no-repeat;
+			background-size: 200%;
+		}
+
+		#huge_it_slideshow_right_3 {
+			right:0;
+			margin-top:-21px;
+			height:43px;
+			width:29px;
+			background:url(http://5лицей.рф/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) right top no-repeat;
+			background-size: 200%;
+
+		}
+		
+		@media screen and (max-width: 600px) {
+
+			.huge_it_slideshow_title_text_3 {
+
+				font-size: 13px !important;
+
+			}
+			.huge_it_slideshow_description_text_3 {
+
+				font-size: 13px !important;
+
+			}
+			.huge_it_slideshow_dots_thumbnails_3 .huge_it_slideshow_dots_3 {
+
+				width:10px;
+				height:10px;
+				border-radius:10px;
+				margin: 10px;
+
+			}
+					#huge_it_slideshow_left_3 {
+				left:0;
+				margin-top:-21px;
+				height:4343px;
+				width:29px;
+				background:url(http://5лицей.рф/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) left  top no-repeat;
+				background-size: 200%;
+			}
+
+			#huge_it_slideshow_right_3 {
+				right:0;
+				margin-top:-21px;
+				height:43px;
+				width:29px;
+				background:url(http://5лицей.рф/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) right top no-repeat;
+				background-size: 200%;
+
+			}
+				}
+
+		
+		@media screen and (max-width: 572px) {
+
+			.huge_it_slideshow_title_text_3 {
+
+				font-size: 12.393333333333px !important;
+
+			}
+			.huge_it_slideshow_description_text_3 {
+
+				font-size: 12.393333333333px !important;
+
+			}
+			.huge_it_slideshow_dots_thumbnails_3 .huge_it_slideshow_dots_3 {
+
+				width:9.5333333333333px;
+				height:9.5333333333333px;
+				border-radius:9.5333333333333px;
+				margin: 9.5333333333333px;
+
+			}
+					#huge_it_slideshow_left_3 {
+				left:0;
+				margin-top:-20.02px;
+				height:40.99333333333343px;
+				width:27.646666666667px;
+				background:url(http://5лицей.рф/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) left  top no-repeat;
+				background-size: 200%;
+			}
+
+			#huge_it_slideshow_right_3 {
+				right:0;
+				margin-top:-20.02px;
+				height:40.993333333333px;
+				width:27.646666666667px;
+				background:url(http://5лицей.рф/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) right top no-repeat;
+				background-size: 200%;
+
+			}
+				}
+
+		
+		@media screen and (max-width: 544px) {
+
+			.huge_it_slideshow_title_text_3 {
+
+				font-size: 11.786666666667px !important;
+
+			}
+			.huge_it_slideshow_description_text_3 {
+
+				font-size: 11.786666666667px !important;
+
+			}
+			.huge_it_slideshow_dots_thumbnails_3 .huge_it_slideshow_dots_3 {
+
+				width:9.0666666666667px;
+				height:9.0666666666667px;
+				border-radius:9.0666666666667px;
+				margin: 9.0666666666667px;
+
+			}
+					#huge_it_slideshow_left_3 {
+				left:0;
+				margin-top:-19.04px;
+				height:38.98666666666743px;
+				width:26.293333333333px;
+				background:url(http://5лицей.рф/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) left  top no-repeat;
+				background-size: 200%;
+			}
+
+			#huge_it_slideshow_right_3 {
+				right:0;
+				margin-top:-19.04px;
+				height:38.986666666667px;
+				width:26.293333333333px;
+				background:url(http://5лицей.рф/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) right top no-repeat;
+				background-size: 200%;
+
+			}
+				}
+
+		
+		@media screen and (max-width: 516px) {
+
+			.huge_it_slideshow_title_text_3 {
+
+				font-size: 11.18px !important;
+
+			}
+			.huge_it_slideshow_description_text_3 {
+
+				font-size: 11.18px !important;
+
+			}
+			.huge_it_slideshow_dots_thumbnails_3 .huge_it_slideshow_dots_3 {
+
+				width:8.6px;
+				height:8.6px;
+				border-radius:8.6px;
+				margin: 8.6px;
+
+			}
+					#huge_it_slideshow_left_3 {
+				left:0;
+				margin-top:-18.06px;
+				height:36.9843px;
+				width:24.94px;
+				background:url(http://5лицей.рф/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) left  top no-repeat;
+				background-size: 200%;
+			}
+
+			#huge_it_slideshow_right_3 {
+				right:0;
+				margin-top:-18.06px;
+				height:36.98px;
+				width:24.94px;
+				background:url(http://5лицей.рф/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) right top no-repeat;
+				background-size: 200%;
+
+			}
+				}
+
+		
+		@media screen and (max-width: 488px) {
+
+			.huge_it_slideshow_title_text_3 {
+
+				font-size: 10.573333333333px !important;
+
+			}
+			.huge_it_slideshow_description_text_3 {
+
+				font-size: 10.573333333333px !important;
+
+			}
+			.huge_it_slideshow_dots_thumbnails_3 .huge_it_slideshow_dots_3 {
+
+				width:8.1333333333333px;
+				height:8.1333333333333px;
+				border-radius:8.1333333333333px;
+				margin: 8.1333333333333px;
+
+			}
+					#huge_it_slideshow_left_3 {
+				left:0;
+				margin-top:-17.08px;
+				height:34.97333333333343px;
+				width:23.586666666667px;
+				background:url(http://5лицей.рф/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) left  top no-repeat;
+				background-size: 200%;
+			}
+
+			#huge_it_slideshow_right_3 {
+				right:0;
+				margin-top:-17.08px;
+				height:34.973333333333px;
+				width:23.586666666667px;
+				background:url(http://5лицей.рф/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) right top no-repeat;
+				background-size: 200%;
+
+			}
+				}
+
+		
+		@media screen and (max-width: 460px) {
+
+			.huge_it_slideshow_title_text_3 {
+
+				font-size: 9.9666666666667px !important;
+
+			}
+			.huge_it_slideshow_description_text_3 {
+
+				font-size: 9.9666666666667px !important;
+
+			}
+			.huge_it_slideshow_dots_thumbnails_3 .huge_it_slideshow_dots_3 {
+
+				width:7.6666666666667px;
+				height:7.6666666666667px;
+				border-radius:7.6666666666667px;
+				margin: 7.6666666666667px;
+
+			}
+					#huge_it_slideshow_left_3 {
+				left:0;
+				margin-top:-16.1px;
+				height:32.96666666666743px;
+				width:22.233333333333px;
+				background:url(http://5лицей.рф/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) left  top no-repeat;
+				background-size: 200%;
+			}
+
+			#huge_it_slideshow_right_3 {
+				right:0;
+				margin-top:-16.1px;
+				height:32.966666666667px;
+				width:22.233333333333px;
+				background:url(http://5лицей.рф/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) right top no-repeat;
+				background-size: 200%;
+
+			}
+				}
+
+		
+		@media screen and (max-width: 432px) {
+
+			.huge_it_slideshow_title_text_3 {
+
+				font-size: 9.36px !important;
+
+			}
+			.huge_it_slideshow_description_text_3 {
+
+				font-size: 9.36px !important;
+
+			}
+			.huge_it_slideshow_dots_thumbnails_3 .huge_it_slideshow_dots_3 {
+
+				width:7.2px;
+				height:7.2px;
+				border-radius:7.2px;
+				margin: 7.2px;
+
+			}
+					#huge_it_slideshow_left_3 {
+				left:0;
+				margin-top:-15.12px;
+				height:30.9643px;
+				width:20.88px;
+				background:url(http://5лицей.рф/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) left  top no-repeat;
+				background-size: 200%;
+			}
+
+			#huge_it_slideshow_right_3 {
+				right:0;
+				margin-top:-15.12px;
+				height:30.96px;
+				width:20.88px;
+				background:url(http://5лицей.рф/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) right top no-repeat;
+				background-size: 200%;
+
+			}
+				}
+
+		
+		@media screen and (max-width: 404px) {
+
+			.huge_it_slideshow_title_text_3 {
+
+				font-size: 8.7533333333333px !important;
+
+			}
+			.huge_it_slideshow_description_text_3 {
+
+				font-size: 8.7533333333333px !important;
+
+			}
+			.huge_it_slideshow_dots_thumbnails_3 .huge_it_slideshow_dots_3 {
+
+				width:6.7333333333333px;
+				height:6.7333333333333px;
+				border-radius:6.7333333333333px;
+				margin: 6.7333333333333px;
+
+			}
+					#huge_it_slideshow_left_3 {
+				left:0;
+				margin-top:-14.14px;
+				height:28.95333333333343px;
+				width:19.526666666667px;
+				background:url(http://5лицей.рф/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) left  top no-repeat;
+				background-size: 200%;
+			}
+
+			#huge_it_slideshow_right_3 {
+				right:0;
+				margin-top:-14.14px;
+				height:28.953333333333px;
+				width:19.526666666667px;
+				background:url(http://5лицей.рф/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) right top no-repeat;
+				background-size: 200%;
+
+			}
+				}
+
+		
+		@media screen and (max-width: 376px) {
+
+			.huge_it_slideshow_title_text_3 {
+
+				font-size: 8.1466666666667px !important;
+
+			}
+			.huge_it_slideshow_description_text_3 {
+
+				font-size: 8.1466666666667px !important;
+
+			}
+			.huge_it_slideshow_dots_thumbnails_3 .huge_it_slideshow_dots_3 {
+
+				width:6.2666666666667px;
+				height:6.2666666666667px;
+				border-radius:6.2666666666667px;
+				margin: 6.2666666666667px;
+
+			}
+					#huge_it_slideshow_left_3 {
+				left:0;
+				margin-top:-13.16px;
+				height:26.94666666666743px;
+				width:18.173333333333px;
+				background:url(http://5лицей.рф/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) left  top no-repeat;
+				background-size: 200%;
+			}
+
+			#huge_it_slideshow_right_3 {
+				right:0;
+				margin-top:-13.16px;
+				height:26.946666666667px;
+				width:18.173333333333px;
+				background:url(http://5лицей.рф/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) right top no-repeat;
+				background-size: 200%;
+
+			}
+				}
+
+		
+		@media screen and (max-width: 348px) {
+
+			.huge_it_slideshow_title_text_3 {
+
+				font-size: 7.54px !important;
+
+			}
+			.huge_it_slideshow_description_text_3 {
+
+				font-size: 7.54px !important;
+
+			}
+			.huge_it_slideshow_dots_thumbnails_3 .huge_it_slideshow_dots_3 {
+
+				width:5.8px;
+				height:5.8px;
+				border-radius:5.8px;
+				margin: 5.8px;
+
+			}
+					#huge_it_slideshow_left_3 {
+				left:0;
+				margin-top:-12.18px;
+				height:24.9443px;
+				width:16.82px;
+				background:url(http://5лицей.рф/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) left  top no-repeat;
+				background-size: 200%;
+			}
+
+			#huge_it_slideshow_right_3 {
+				right:0;
+				margin-top:-12.18px;
+				height:24.94px;
+				width:16.82px;
+				background:url(http://5лицей.рф/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) right top no-repeat;
+				background-size: 200%;
+
+			}
+				}
+
+		
+		@media screen and (max-width: 320px) {
+
+			.huge_it_slideshow_title_text_3 {
+
+				font-size: 6.9333333333333px !important;
+
+			}
+			.huge_it_slideshow_description_text_3 {
+
+				font-size: 6.9333333333333px !important;
+
+			}
+			.huge_it_slideshow_dots_thumbnails_3 .huge_it_slideshow_dots_3 {
+
+				width:5.3333333333333px;
+				height:5.3333333333333px;
+				border-radius:5.3333333333333px;
+				margin: 5.3333333333333px;
+
+			}
+					#huge_it_slideshow_left_3 {
+				left:0;
+				margin-top:-11.2px;
+				height:22.93333333333343px;
+				width:15.466666666667px;
+				background:url(http://5лицей.рф/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) left  top no-repeat;
+				background-size: 200%;
+			}
+
+			#huge_it_slideshow_right_3 {
+				right:0;
+				margin-top:-11.2px;
+				height:22.933333333333px;
+				width:15.466666666667px;
+				background:url(http://5лицей.рф/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) right top no-repeat;
+				background-size: 200%;
+
+			}
+				}
+
+		
+		@media screen and (max-width: 292px) {
+
+			.huge_it_slideshow_title_text_3 {
+
+				font-size: 6.3266666666667px !important;
+
+			}
+			.huge_it_slideshow_description_text_3 {
+
+				font-size: 6.3266666666667px !important;
+
+			}
+			.huge_it_slideshow_dots_thumbnails_3 .huge_it_slideshow_dots_3 {
+
+				width:4.8666666666667px;
+				height:4.8666666666667px;
+				border-radius:4.8666666666667px;
+				margin: 4.8666666666667px;
+
+			}
+					#huge_it_slideshow_left_3 {
+				left:0;
+				margin-top:-10.22px;
+				height:20.92666666666743px;
+				width:14.113333333333px;
+				background:url(http://5лицей.рф/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) left  top no-repeat;
+				background-size: 200%;
+			}
+
+			#huge_it_slideshow_right_3 {
+				right:0;
+				margin-top:-10.22px;
+				height:20.926666666667px;
+				width:14.113333333333px;
+				background:url(http://5лицей.рф/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) right top no-repeat;
+				background-size: 200%;
+
+			}
+				}
+
+		
+		@media screen and (max-width: 264px) {
+
+			.huge_it_slideshow_title_text_3 {
+
+				font-size: 5.72px !important;
+
+			}
+			.huge_it_slideshow_description_text_3 {
+
+				font-size: 5.72px !important;
+
+			}
+			.huge_it_slideshow_dots_thumbnails_3 .huge_it_slideshow_dots_3 {
+
+				width:4.4px;
+				height:4.4px;
+				border-radius:4.4px;
+				margin: 4.4px;
+
+			}
+					#huge_it_slideshow_left_3 {
+				left:0;
+				margin-top:-9.24px;
+				height:18.9243px;
+				width:12.76px;
+				background:url(http://5лицей.рф/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) left  top no-repeat;
+				background-size: 200%;
+			}
+
+			#huge_it_slideshow_right_3 {
+				right:0;
+				margin-top:-9.24px;
+				height:18.92px;
+				width:12.76px;
+				background:url(http://5лицей.рф/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) right top no-repeat;
+				background-size: 200%;
+
+			}
+				}
+
+		
+		@media screen and (max-width: 236px) {
+
+			.huge_it_slideshow_title_text_3 {
+
+				font-size: 5.1133333333333px !important;
+
+			}
+			.huge_it_slideshow_description_text_3 {
+
+				font-size: 5.1133333333333px !important;
+
+			}
+			.huge_it_slideshow_dots_thumbnails_3 .huge_it_slideshow_dots_3 {
+
+				width:3.9333333333333px;
+				height:3.9333333333333px;
+				border-radius:3.9333333333333px;
+				margin: 3.9333333333333px;
+
+			}
+					#huge_it_slideshow_left_3 {
+				left:0;
+				margin-top:-8.26px;
+				height:16.91333333333343px;
+				width:11.406666666667px;
+				background:url(http://5лицей.рф/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) left  top no-repeat;
+				background-size: 200%;
+			}
+
+			#huge_it_slideshow_right_3 {
+				right:0;
+				margin-top:-8.26px;
+				height:16.913333333333px;
+				width:11.406666666667px;
+				background:url(http://5лицей.рф/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) right top no-repeat;
+				background-size: 200%;
+
+			}
+				}
+
+		
+		@media screen and (max-width: 208px) {
+
+			.huge_it_slideshow_title_text_3 {
+
+				font-size: 4.5066666666667px !important;
+
+			}
+			.huge_it_slideshow_description_text_3 {
+
+				font-size: 4.5066666666667px !important;
+
+			}
+			.huge_it_slideshow_dots_thumbnails_3 .huge_it_slideshow_dots_3 {
+
+				width:3.4666666666667px;
+				height:3.4666666666667px;
+				border-radius:3.4666666666667px;
+				margin: 3.4666666666667px;
+
+			}
+					#huge_it_slideshow_left_3 {
+				left:0;
+				margin-top:-7.28px;
+				height:14.90666666666743px;
+				width:10.053333333333px;
+				background:url(http://5лицей.рф/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) left  top no-repeat;
+				background-size: 200%;
+			}
+
+			#huge_it_slideshow_right_3 {
+				right:0;
+				margin-top:-7.28px;
+				height:14.906666666667px;
+				width:10.053333333333px;
+				background:url(http://5лицей.рф/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) right top no-repeat;
+				background-size: 200%;
+
+			}
+				}
+
+		
+		@media screen and (max-width: 180px) {
+
+			.huge_it_slideshow_title_text_3 {
+
+				font-size: 3.9px !important;
+
+			}
+			.huge_it_slideshow_description_text_3 {
+
+				font-size: 3.9px !important;
+
+			}
+			.huge_it_slideshow_dots_thumbnails_3 .huge_it_slideshow_dots_3 {
+
+				width:3px;
+				height:3px;
+				border-radius:3px;
+				margin: 3px;
+
+			}
+					#huge_it_slideshow_left_3 {
+				left:0;
+				margin-top:-6.3px;
+				height:12.943px;
+				width:8.7px;
+				background:url(http://5лицей.рф/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) left  top no-repeat;
+				background-size: 200%;
+			}
+
+			#huge_it_slideshow_right_3 {
+				right:0;
+				margin-top:-6.3px;
+				height:12.9px;
+				width:8.7px;
+				background:url(http://5лицей.рф/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) right top no-repeat;
+				background-size: 200%;
+
+			}
+				}
+
+		
+		@media screen and (max-width: 152px) {
+
+			.huge_it_slideshow_title_text_3 {
+
+				font-size: 3.2933333333333px !important;
+
+			}
+			.huge_it_slideshow_description_text_3 {
+
+				font-size: 3.2933333333333px !important;
+
+			}
+			.huge_it_slideshow_dots_thumbnails_3 .huge_it_slideshow_dots_3 {
+
+				width:2.5333333333333px;
+				height:2.5333333333333px;
+				border-radius:2.5333333333333px;
+				margin: 2.5333333333333px;
+
+			}
+					#huge_it_slideshow_left_3 {
+				left:0;
+				margin-top:-5.32px;
+				height:10.89333333333343px;
+				width:7.3466666666667px;
+				background:url(http://5лицей.рф/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) left  top no-repeat;
+				background-size: 200%;
+			}
+
+			#huge_it_slideshow_right_3 {
+				right:0;
+				margin-top:-5.32px;
+				height:10.893333333333px;
+				width:7.3466666666667px;
+				background:url(http://5лицей.рф/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) right top no-repeat;
+				background-size: 200%;
+
+			}
+				}
+
+		
+		/***</add>***/
+
+	</style>
+
+
+	<script>
+    var pausehover="on";
+	var huge_video_playing={};
+	var autoplayMatch={};
+    var scrolling;
+    var ifhasthumb ="dotstop";
+
+    scrolling = pausehover != 'on';
+
+    jQuery(window).load(function(){
+        if(!/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent))
+        setTimeout(function(){
+            jQuery('.huge_it_slide_container_3').mouseleave();
+        }, 10);
+    });
+</script>
+
+
+<!--  #######ADD YOUTUBE IFRAME TWICE######## -->
+<script>
+				
+	var YTdeferred = jQuery.Deferred();
+	window.onYouTubeIframeAPIReady = function() {
+		//resolve when youtube callback is called passing YT as a parameter
+		YTdeferred.resolve(window.YT);
+
+	};
+	YTdeferred.done(function(YT) {
+
+		jQuery('.huge-it-iframe').each(function(){
+			
+			var el_id = jQuery(this).attr('data-element-id');
+			var volume = HUGEIT_YT_IFRAMES['iframe'+el_id]['volume'];
+			
+			window['onPlayerReady'+el_id] = function(event) {
+				window['player_'+el_id]['setVolume'](volume);
+			}
+		});		
+
+		jQuery('.huge-it-iframe').each(function(){
+		
+			var id = jQuery(this).attr('id');
+			var el_id = jQuery(this).attr('data-element-id');
+			var controls = HUGEIT_YT_IFRAMES['iframe'+el_id]['controls'];
+			var showinfo = HUGEIT_YT_IFRAMES['iframe'+el_id]['showinfo'];
+			var url = HUGEIT_YT_IFRAMES['iframe'+el_id]['videoId'];
+			controls||(controls = 0);
+			showinfo||(showinfo = 0);
+			
+			window['player_'+el_id] = new YT.Player(id, {
+				height: '350',
+				width: '600',
+				videoId: url,
+				playerVars: {
+					'controls': controls,
+					'showinfo': showinfo,
+					'rel':0
+				},
+				events: {
+					'onError': window['onPlayerError'+el_id],
+					'onReady': window['onPlayerReady'+el_id],
+					'onStateChange': window['onPlayerStateChange'+el_id],
+					'loop':1
+				}
+			});			
+		})
+	});
+	
+	jQuery(function(){
+
+		jQuery('.huge-it-iframe').each(function(){
+			
+			var el_id = jQuery(this).attr('data-element-id');
+			var quality = HUGEIT_YT_IFRAMES['iframe'+el_id]['quality'];	
+		
+			window['onPlayerStateChange'+el_id] = function(event) {
+		
+				if (event.data == YT.PlayerState.PLAYING) {
+					HUGEIT_YT_IFRAMES['iframe'+el_id]['state']='played';
+					event.target.setPlaybackQuality(quality);
+				}
+			}
+		});
+	
+	});
+	function stopYoutubeVideo(currentVideo,nextVideo) {
+
+		if(currentVideo) {
+			(HUGEIT_YT_IFRAMES['iframe'+currentVideo]['state'])?currentVideo&&(window['player_'+currentVideo]['pauseVideo']()):currentVideo&&(window['player_'+currentVideo]['stopVideo']());
+		}
+		nextVideo&&HUGEIT_YT_IFRAMES['iframe'+nextVideo]['autoplay']&&(window['player_'+nextVideo]['playVideo']());
+	}	
+	
+	function stopVimeoVideo(currentVideo,nextVideo){
+		jQuery(currentVideo).vimeo('pause');
+		jQuery(nextVideo).vimeo('play');
+	}
+/*** <Vimeo> initialize And youtube autopay ***/ 
+
+	jQuery( window ).load(function() {	
+
+		(function VimeoOptionsReady(){ //calling funtion once
+				jQuery('.huge-it-iframe-vimeo').each(function(){
+					var el_id = jQuery(this).attr('data-element-id');
+					jQuery(this).vimeo('setColor',HUGEIT_VIMEOS['iframe'+el_id]['color']);
+					jQuery(this).vimeo('setVolume',HUGEIT_VIMEOS['iframe'+el_id]['volume']);
+				})
+		}());
+		
+		if('off' == 'on') {
+							
+
+			if(jQuery('.huge-it-iframe-vimeo.autoplay').length) {
+								
+				(function AutoplayVimeo() {
+					var setplayVideo = setInterval(hugeitframe, 100);
+					function hugeitframe() {
+						var vimeo1 = jQuery('.huge_it_slider_3 li').first().find('.autoplay')
+							if(vimeo1.length) {
+								vimeo1.vimeo('play');
+								clearInterval(setplayVideo);
+							}
+					}
+				}());
+			}
+			
+			if(jQuery('.huge-it-iframe.autoplay').length) {
+									
+				(function AutoplayYoutube() {
+					var setplayVideo = setInterval(hugeitframe, 100);
+					function hugeitframe() {
+						jQuery('.huge-it-iframe.autoplay').each(function(){
+							
+						var el_id = jQuery(this).attr('data-element-id');
+						
+						if(window['player_'+el_id]) {
+							window['player_'+el_id]['playVideo']();
+							clearInterval(setplayVideo);
+						}
+						});	
+					}
+				}());
+			}
+		}
+	});
+
+/*** </Vimeo> initialize***/ 
+
+</script>
+<!--  </#######ADD YOUTUBE IFRAME TWICE END########>-->
+		
+	
+<script>
+
+	jQuery(document).ready(function() {
+
+		jQuery('.thumb_wrapper').on('click', function(ev) {
+			var myid = jQuery(this).data('rowid');
+			myid = parseInt(myid);
+			eval('player_' + myid + '.playVideo()');
+			ev.preventDefault();
+
+		});
+	});
+
+	if(typeof sliderID_array =="undefined") {
+		var sliderID_array=[];
+	}
+
+	var data_3 = [];
+	var event_stack_3 = [];
+	data_3["0"]=[];data_3["0"]["id"]="0";data_3["0"]["image_url"]="http://5лицей.рф/wp-content/uploads/2019/06/IMG_6831.jpg";data_3["0"]["description"]="";data_3["0"]["alt"]="";data_3["1"]=[];data_3["1"]["id"]="1";data_3["1"]["image_url"]="http://5лицей.рф/wp-content/uploads/2015/12/IMG_5114.jpg";data_3["1"]["description"]="";data_3["1"]["alt"]="";data_3["2"]=[];data_3["2"]["id"]="2";data_3["2"]["image_url"]="http://5лицей.рф/wp-content/uploads/2019/06/IMG_6824.jpg";data_3["2"]["description"]="";data_3["2"]["alt"]="";	var huge_it_trans_in_progress_3 = false;
+	var huge_it_transition_duration_3 = 1000;
+	var huge_interval = {};
+	var id_array_index = sliderID_array.length;
+
+		  sliderID_array[id_array_index] =       // Stop autoplay.
+      window.clearInterval(huge_interval['huge_it_playInterval_'+3]);
+	  
+     var huge_it_current_key_3 = '';
+	 function huge_it_move_dots_3() {
+        var image_left = jQuery(".huge_it_slideshow_dots_active_3").position().left;
+        var image_right = jQuery(".huge_it_slideshow_dots_active_3").position().left + jQuery(".huge_it_slideshow_dots_active_3").outerWidth(true);
+       
+      }
+      function huge_it_testBrowser_cssTransitions_3() {
+        return huge_it_testDom_3('Transition');
+      }
+      function huge_it_testBrowser_cssTransforms3d_3() {
+        return huge_it_testDom_3('Perspective');
+      }
+      function huge_it_testDom_3(prop) {
+        // Browser vendor CSS prefixes.
+        var browserVendors = ['', '-webkit-', '-moz-', '-ms-', '-o-', '-khtml-'];
+        // Browser vendor DOM prefixes.
+        var domPrefixes = ['', 'Webkit', 'Moz', 'ms', 'O', 'Khtml'];
+        var i = domPrefixes.length;
+        while (i--) {
+          if (typeof document.body.style[domPrefixes[i] + prop] !== 'undefined') {
+            return true;
+          }
+        }
+        return false;
+      }
+		function huge_it_cube_3(tz, ntx, nty, nrx, nry, wrx, wry, current_image_class, next_image_class, direction) {
+		
+        /* If browser does not support 3d transforms/CSS transitions.*/
+        if (!huge_it_testBrowser_cssTransitions_3()) {
+			jQuery(".huge_it_slideshow_dots_3").removeClass("huge_it_slideshow_dots_active_3").addClass("huge_it_slideshow_dots_deactive_3");
+        jQuery("#huge_it_dots_" + huge_it_current_key_3 + "_3").removeClass("huge_it_slideshow_dots_deactive_3").addClass("huge_it_slideshow_dots_active_3");
+          return huge_it_fallback_3(current_image_class, next_image_class, direction);
+        }
+        if (!huge_it_testBrowser_cssTransforms3d_3()) {
+          return huge_it_fallback3d_3(current_image_class, next_image_class, direction);
+        }
+		  jQuery(current_image_class).css({'z-index': 'none'});
+          jQuery(next_image_class).css({'z-index' : 2});
+        huge_it_trans_in_progress_3 = true;
+        /* Set active thumbnail.*/
+		jQuery(".huge_it_slideshow_dots_3").removeClass("huge_it_slideshow_dots_active_3").addClass("huge_it_slideshow_dots_deactive_3");  
+		jQuery("#huge_it_dots_" + huge_it_current_key_3 + "_3").removeClass("huge_it_slideshow_dots_deactive_3").addClass("huge_it_slideshow_dots_active_3");
+        jQuery(".huge_it_slide_bg_3").css('perspective', 1000);
+        jQuery(current_image_class).css({
+          transform : 'translateZ(' + tz + 'px)',
+          backfaceVisibility : 'hidden'
+        });
+		
+		 jQuery(".huge_it_slideshow_image_wrap_3,.huge_it_slide_bg_3,.huge_it_slideshow_image_item_3,.huge_it_slideshow_image_second_item_3 ").css('overflow', 'visible');
+		
+        jQuery(next_image_class).css({
+          opacity : 1,
+          filter: 'Alpha(opacity=100)',
+          backfaceVisibility : 'hidden',
+          transform : 'translateY(' + nty + 'px) translateX(' + ntx + 'px) rotateY('+ nry +'deg) rotateX('+ nrx +'deg)'
+        });
+        jQuery(".huge_it_slider_3").css({
+          transform: 'translateZ(-' + tz + 'px)',
+          transformStyle: 'preserve-3d'
+        });
+        /* Execution steps.*/
+        setTimeout(function () {
+          jQuery(".huge_it_slider_3").css({
+            transition: 'all ' + huge_it_transition_duration_3 + 'ms ease-in-out',
+            transform: 'translateZ(-' + tz + 'px) rotateX('+ wrx +'deg) rotateY('+ wry +'deg)'
+          });
+        }, 20);
+        /* After transition.*/
+        jQuery(".huge_it_slider_3").one('webkitTransitionEnd transitionend otransitionend oTransitionEnd mstransitionend', jQuery.proxy(huge_it_after_trans));
+        function huge_it_after_trans() {
+		  jQuery(".huge_it_slide_bg_3,.huge_it_slideshow_image_item_3,.huge_it_slideshow_image_second_item_3 ").css('overflow', 'hidden');
+		  jQuery(".huge_it_slide_bg_3").removeAttr('style');
+          jQuery(current_image_class).removeAttr('style');
+          jQuery(next_image_class).removeAttr('style');
+          jQuery(".huge_it_slider_3").removeAttr('style');
+		 // alert(current_image_class+' '+next_image_class);
+          jQuery(current_image_class).css({'opacity' : 0, filter: 'Alpha(opacity=0)', 'z-index': 1});
+          jQuery(next_image_class).css({'opacity' : 1, filter: 'Alpha(opacity=100)', 'z-index' : 2});
+         // huge_it_change_watermark_container_3();
+          huge_it_trans_in_progress_3 = false;
+          if (typeof event_stack_3 !== 'undefined' && event_stack_3.length > 0) {
+            key = event_stack_3[0].split("-");
+            event_stack_3.shift();
+            huge_it_change_image_3(key[0], key[1], data_3, true,false);
+          }
+        }
+      }
+      function huge_it_cubeH_3(current_image_class, next_image_class, direction) {
+        /* Set to half of image width.*/
+        var dimension = jQuery(current_image_class).width() / 2;
+        if (direction == 'right') {
+          huge_it_cube_3(dimension, dimension, 0, 0, 90, 0, -90, current_image_class, next_image_class, direction);
+        }
+        else if (direction == 'left') {
+          huge_it_cube_3(dimension, -dimension, 0, 0, -90, 0, 90, current_image_class, next_image_class, direction);
+        }
+      }
+      function huge_it_cubeV_3(current_image_class, next_image_class, direction) {
+        /* Set to half of image height.*/
+        var dimension = jQuery(current_image_class).height() / 2;
+        /* If next slide.*/
+        if (direction == 'right') {
+          huge_it_cube_3(dimension, 0, -dimension, 90, 0, -90, 0, current_image_class, next_image_class, direction);
+        }
+        else if (direction == 'left') {
+          huge_it_cube_3(dimension, 0, dimension, -90, 0, 90, 0, current_image_class, next_image_class, direction);
+        }
+      }
+      /* For browsers that does not support transitions.*/
+      function huge_it_fallback_3(current_image_class, next_image_class, direction) {
+        huge_it_fade_3(current_image_class, next_image_class, direction);
+      }
+      /* For browsers that support transitions, but not 3d transforms (only used if primary transition makes use of 3d-transforms).*/
+      function huge_it_fallback3d_3(current_image_class, next_image_class, direction) {
+        huge_it_sliceV_3(current_image_class, next_image_class, direction);
+      }
+      function huge_it_none_3(current_image_class, next_image_class, direction) {
+        jQuery(current_image_class).css({'opacity' : 0, 'z-index': 1});
+        jQuery(next_image_class).css({'opacity' : 1, 'z-index' : 2});
+
+        /* Set active thumbnail.*/
+        jQuery(".huge_it_slideshow_dots_3").removeClass("huge_it_slideshow_dots_active_3").addClass("huge_it_slideshow_dots_deactive_3");
+        jQuery("#huge_it_dots_" + huge_it_current_key_3 + "_3").removeClass("huge_it_slideshow_dots_deactive_3").addClass("huge_it_slideshow_dots_active_3");
+      }
+      function huge_it_fade_3(current_image_class, next_image_class, direction) {
+		if (huge_it_testBrowser_cssTransitions_3()) {
+			
+          jQuery(next_image_class).css('transition', 'opacity ' + huge_it_transition_duration_3 + 'ms linear');
+		  jQuery(current_image_class).css('transition', 'opacity ' + huge_it_transition_duration_3 + 'ms linear');
+          jQuery(current_image_class).css({'opacity' : 0, 'z-index': 1});
+          jQuery(next_image_class).css({'opacity' : 1, 'z-index' : 2});
+        }
+        else {
+		
+          jQuery(current_image_class).animate({'opacity' : 0, 'z-index' : 1}, huge_it_transition_duration_3);
+          jQuery(next_image_class).animate({
+              'opacity' : 1,
+              'z-index': 2
+            }, {
+              duration: huge_it_transition_duration_3,
+              complete: function () {return false;}
+            });
+          // For IE.
+          jQuery(current_image_class).fadeTo(huge_it_transition_duration_3, 0);
+          jQuery(next_image_class).fadeTo(huge_it_transition_duration_3, 1);
+        }
+
+		jQuery(".huge_it_slideshow_dots_3").removeClass("huge_it_slideshow_dots_active_3").addClass("huge_it_slideshow_dots_deactive_3");
+		jQuery("#huge_it_dots_" + huge_it_current_key_3 + "_3").removeClass("huge_it_slideshow_dots_deactive_3").addClass("huge_it_slideshow_dots_active_3");
+      }
+      function huge_it_grid_3(cols, rows, ro, tx, ty, sc, op, current_image_class, next_image_class, direction) {
+        /* If browser does not support CSS transitions.*/
+        if (!huge_it_testBrowser_cssTransitions_3()) {
+			jQuery(".huge_it_slideshow_dots_3").removeClass("huge_it_slideshow_dots_active_3").addClass("huge_it_slideshow_dots_deactive_3");
+        jQuery("#huge_it_dots_" + huge_it_current_key_3 + "_3").removeClass("huge_it_slideshow_dots_deactive_3").addClass("huge_it_slideshow_dots_active_3");
+          return huge_it_fallback_3(current_image_class, next_image_class, direction);
+		  
+        }
+        huge_it_trans_in_progress_3 = true;
+        /* Set active thumbnail.*/
+		jQuery(".huge_it_slideshow_dots_3").removeClass("huge_it_slideshow_dots_active_3").addClass("huge_it_slideshow_dots_deactive_3");
+        jQuery("#huge_it_dots_" + huge_it_current_key_3 + "_3").removeClass("huge_it_slideshow_dots_deactive_3").addClass("huge_it_slideshow_dots_active_3");
+        /* The time (in ms) added to/subtracted from the delay total for each new gridlet.*/
+        var count = (huge_it_transition_duration_3) / (cols + rows);
+        /* Gridlet creator (divisions of the image grid, positioned with background-images to replicate the look of an entire slide image when assembled)*/
+        function huge_it_gridlet(width, height, top, img_top, left, img_left, src, imgWidth, imgHeight, c, r) {
+          var delay = (c + r) * count;
+          /* Return a gridlet elem with styles for specific transition.*/
+          return jQuery('<div class="huge_it_gridlet_3" />').css({
+            width : width,
+            height : height,
+            top : top,
+            left : left,
+            backgroundImage : 'url("' + src + '")',
+            backgroundColor: jQuery(".huge_it_slideshow_image_wrap_3").css("background-color"),
+            /*backgroundColor: rgba(0, 0, 0, 0),*/
+            backgroundRepeat: 'no-repeat',
+            backgroundPosition : img_left + 'px ' + img_top + 'px',
+            backgroundSize : imgWidth + 'px ' + imgHeight + 'px',
+            transition : 'all ' + huge_it_transition_duration_3 + 'ms ease-in-out ' + delay + 'ms',
+            transform : 'none'
+          });
+        }
+        /* Get the current slide's image.*/
+        var cur_img = jQuery(current_image_class).find('img');
+        /* Create a grid to hold the gridlets.*/
+        var grid = jQuery('<div />').addClass('huge_it_grid_3');
+        /* Prepend the grid to the next slide (i.e. so it's above the slide image).*/
+        jQuery(current_image_class).prepend(grid);
+        /* vars to calculate positioning/size of gridlets*/
+        var cont = jQuery(".huge_it_slide_bg_3");
+        var imgWidth = cur_img.width();
+        var imgHeight = cur_img.height();
+        var contWidth = cont.width(),
+            contHeight = cont.height(),
+            imgSrc = cur_img.attr('src'),/*.replace('/thumb', ''),*/
+            colWidth = Math.floor(contWidth / cols),
+            rowHeight = Math.floor(contHeight / rows),
+            colRemainder = contWidth - (cols * colWidth),
+            colAdd = Math.ceil(colRemainder / cols),
+            rowRemainder = contHeight - (rows * rowHeight),
+            rowAdd = Math.ceil(rowRemainder / rows),
+            leftDist = 0,
+            img_leftDist = (jQuery(".huge_it_slide_bg_3").width() - cur_img.width()) / 2;
+        /* tx/ty args can be passed as 'auto'/'min-auto' (meaning use slide width/height or negative slide width/height).*/
+        tx = tx === 'auto' ? contWidth : tx;
+        tx = tx === 'min-auto' ? - contWidth : tx;
+        ty = ty === 'auto' ? contHeight : ty;
+        ty = ty === 'min-auto' ? - contHeight : ty;
+        /* Loop through cols*/
+        for (var i = 0; i < cols; i++) {
+          var topDist = 0,
+              img_topDst = (jQuery(".huge_it_slide_bg_3").height() - cur_img.height()) / 2,
+              newColWidth = colWidth;
+          /* If imgWidth (px) does not divide cleanly into the specified number of cols, adjust individual col widths to create correct total.*/
+          if (colRemainder > 0) {
+            var add = colRemainder >= colAdd ? colAdd : colRemainder;
+            newColWidth += add;
+            colRemainder -= add;
+          }
+          /* Nested loop to create row gridlets for each col.*/
+          for (var j = 0; j < rows; j++)  {
+            var newRowHeight = rowHeight,
+                newRowRemainder = rowRemainder;
+            /* If contHeight (px) does not divide cleanly into the specified number of rows, adjust individual row heights to create correct total.*/
+            if (newRowRemainder > 0) {
+              add = newRowRemainder >= rowAdd ? rowAdd : rowRemainder;
+              newRowHeight += add;
+              newRowRemainder -= add;
+            }
+            /* Create & append gridlet to grid.*/
+            grid.append(huge_it_gridlet(newColWidth, newRowHeight, topDist, img_topDst, leftDist, img_leftDist, imgSrc, imgWidth, imgHeight, i, j));
+            topDist += newRowHeight;
+            img_topDst -= newRowHeight;
+          }
+          img_leftDist -= newColWidth;
+          leftDist += newColWidth;
+        }
+        /* Set event listener on last gridlet to finish transitioning.*/
+        var last_gridlet = grid.children().last();
+        /* Show grid & hide the image it replaces.*/
+        grid.show();
+        cur_img.css('opacity', 0);
+        /* Add identifying classes to corner gridlets (useful if applying border radius).*/
+        grid.children().first().addClass('rs-top-left');
+        grid.children().last().addClass('rs-bottom-right');
+        grid.children().eq(rows - 1).addClass('rs-bottom-left');
+        grid.children().eq(- rows).addClass('rs-top-right');
+        /* Execution steps.*/
+        setTimeout(function () {
+          grid.children().css({
+            opacity: op,
+            transform: 'rotate('+ ro +'deg) translateX('+ tx +'px) translateY('+ ty +'px) scale('+ sc +')'
+          });
+        }, 1);
+        jQuery(next_image_class).css('opacity', 1);
+        /* After transition.*/
+        jQuery(last_gridlet).one('webkitTransitionEnd transitionend otransitionend oTransitionEnd mstransitionend', jQuery.proxy(huge_it_after_trans));
+        function huge_it_after_trans() {
+          jQuery(current_image_class).css({'opacity' : 0, 'z-index': 1});
+          jQuery(next_image_class).css({'opacity' : 1, 'z-index' : 2});
+          cur_img.css('opacity', 1);
+          grid.remove();
+          huge_it_trans_in_progress_3 = false;
+          if (typeof event_stack_3 !== 'undefined' && event_stack_3.length > 0) {
+            key = event_stack_3[0].split("-");
+            event_stack_3.shift();
+            huge_it_change_image_3(key[0], key[1], data_3, true,false);
+          }
+        }
+      }
+      function huge_it_sliceH_3(current_image_class, next_image_class, direction) {
+        if (direction == 'right') {
+          var translateX = 'min-auto';
+        }
+        else if (direction == 'left') {
+          var translateX = 'auto';
+        }
+        huge_it_grid_3(1, 8, 0, translateX, 0, 1, 0, current_image_class, next_image_class, direction);
+      }
+      function huge_it_sliceV_3(current_image_class, next_image_class, direction) {
+        if (direction == 'right') {
+          var translateY = 'min-auto';
+        }
+        else if (direction == 'left') {
+          var translateY = 'auto';
+        }
+        huge_it_grid_3(10, 1, 0, 0, translateY, 1, 0, current_image_class, next_image_class, direction);
+      }
+      function huge_it_slideV_3(current_image_class, next_image_class, direction) {
+        if (direction == 'right') {
+          var translateY = 'auto';
+        }
+        else if (direction == 'left') {
+          var translateY = 'min-auto';
+        }
+        huge_it_grid_3(1, 1, 0, 0, translateY, 1, 1, current_image_class, next_image_class, direction);
+      }
+      function huge_it_slideH_3(current_image_class, next_image_class, direction) {
+        if (direction == 'right') {
+          var translateX = 'min-auto';
+        }
+        else if (direction == 'left') {
+          var translateX = 'auto';
+        }
+        huge_it_grid_3(1, 1, 0, translateX, 0, 1, 1, current_image_class, next_image_class, direction);
+      }
+      function huge_it_scaleOut_3(current_image_class, next_image_class, direction) {
+        huge_it_grid_3(1, 1, 0, 0, 0, 1.5, 0, current_image_class, next_image_class, direction);
+      }
+      function huge_it_scaleIn_3(current_image_class, next_image_class, direction) {
+        huge_it_grid_3(1, 1, 0, 0, 0, 0.5, 0, current_image_class, next_image_class, direction);
+      }
+      function huge_it_blockScale_3(current_image_class, next_image_class, direction) {
+        huge_it_grid_3(8, 6, 0, 0, 0, .6, 0, current_image_class, next_image_class, direction);
+      }
+      function huge_it_kaleidoscope_3(current_image_class, next_image_class, direction) {
+        huge_it_grid_3(10, 8, 0, 0, 0, 1, 0, current_image_class, next_image_class, direction);
+      }
+      function huge_it_fan_3(current_image_class, next_image_class, direction) {
+        if (direction == 'right') {
+          var rotate = 45;
+          var translateX = 100;
+        }
+        else if (direction == 'left') {
+          var rotate = -45;
+          var translateX = -100;
+        }
+        huge_it_grid_3(1, 10, rotate, translateX, 0, 1, 0, current_image_class, next_image_class, direction);
+      }
+      function huge_it_blindV_3(current_image_class, next_image_class, direction) {
+        huge_it_grid_3(1, 8, 0, 0, 0, .7, 0, current_image_class, next_image_class);
+      }
+      function huge_it_blindH_3(current_image_class, next_image_class, direction) {
+        huge_it_grid_3(10, 1, 0, 0, 0, .7, 0, current_image_class, next_image_class);
+      }
+      function huge_it_random_3(current_image_class, next_image_class, direction) {
+        var anims = ['sliceH', 'sliceV', 'slideH', 'slideV', 'scaleOut', 'scaleIn', 'blockScale', 'kaleidoscope', 'fan', 'blindH', 'blindV'];
+        /* Pick a random transition from the anims array.*/
+        this["huge_it_" + anims[Math.floor(Math.random() * anims.length)] + "_3"](current_image_class, next_image_class, direction);
+      }
+      
+      function iterator_3() {
+	      return 1;
+     }
+	 
+     function huge_it_change_image_3(current_key, key, data_3, from_effect, clicked) {
+
+	     if (data_3[key]) {
+
+		     if (!from_effect) {
+			     // Change image key.
+			     jQuery("#huge_it_current_image_key_3").val(key);
+			     current_key = jQuery(".huge_it_slideshow_dots_active_3").attr("data-image_key");
+		     }
+
+		     if (huge_it_trans_in_progress_3) {
+			     event_stack_3.push(current_key + '-' + key);
+			     return;
+		     }
+
+		     var direction = 'right';
+		     if (huge_it_current_key_3 > key) {
+			     direction = 'left';
+		     }
+		     else if (huge_it_current_key_3 == key) {
+			     return false;
+		     }
+
+		     // Set active thumbnail position.
+
+		     huge_it_current_key_3 = key;
+		     jQuery("#huge_it_slideshow_image_3").attr('data-image_id', data_3[key]["id"]);
+
+
+		     jQuery(".huge_it_slideshow_title_text_3").html(data_3[key]["alt"]);
+		     jQuery(".huge_it_slideshow_description_text_3").html(data_3[key]["description"]);
+
+		     var current_image_class = "#image_id_3_" + data_3[current_key]["id"];
+		     var next_image_class = "#image_id_3_" + data_3[key]["id"];
+
+
+		     if (jQuery(current_image_class).find('.huge_it_video_frame_3').length > 0) {
+			     var streffect = 'fade';
+			     if (streffect == "cubeV" || streffect == "cubeH" || streffect == "none" || streffect == "fade") {
+				     huge_it_fade_3(current_image_class, next_image_class, direction);
+			     } else {
+				     huge_it_fade_3(current_image_class, next_image_class, direction);
+			     }
+		     } else {
+			     huge_it_fade_3(current_image_class, next_image_class, direction);
+		     }
+
+
+		     jQuery('.huge_it_slideshow_title_text_3').removeClass('none');
+		     if (jQuery('.huge_it_slideshow_title_text_3').html() == "") {
+			     jQuery('.huge_it_slideshow_title_text_3').addClass('none');
+		     }
+
+		     jQuery('.huge_it_slideshow_description_text_3').removeClass('none');
+		     if (jQuery('.huge_it_slideshow_description_text_3').html() == "") {
+			     jQuery('.huge_it_slideshow_description_text_3').addClass('none');
+		     }
+
+
+		     jQuery(current_image_class).find('.huge_it_slideshow_title_text_3').addClass('none');
+		     jQuery(current_image_class).find('.huge_it_slideshow_description_text_3').addClass('none');
+		     huge_it_move_dots_3();
+		     		     /*** <vy api>  for vimeo and youtube stop pause play etc... ***/
+		     var nextVideo = jQuery('#video_id_3_' + key).attr('data-element-id');
+		     var currentVideo = jQuery('#video_id_3_' + current_key).attr('data-element-id');
+		     /*** add ***/
+		     (currentVideo || nextVideo) && stopYoutubeVideo(currentVideo, nextVideo);
+		     if ((jQuery('#player_3_' + current_key)).hasClass('huge-it-iframe-vimeo')) {
+			     jQuery('#player_3_' + current_key).vimeo('pause');
+
+		     }
+		     if ((jQuery('#player_3_' + key)).hasClass('huge-it-iframe-vimeo') && ('off' == 'on')) {
+			     jQuery('#player_3_' + key).vimeo('play');
+		     }
+		     /*** </vy api>***/
+		     window.clearInterval(huge_interval['huge_it_playInterval_' +3]);
+		     play_3();
+	     }
+
+     }
+	var staticthumbWidth;
+	jQuery(window).load(function() {
+		staticthumbWidth = jQuery('#huge_it_thumb_slider>li').width();
+
+	});
+     function huge_it_popup_resize_3() {
+
+	     var staticsliderwidth =600;
+	     var sliderwidth =600;
+	     var bodyWidth = jQuery(window).width();
+	     var parentWidth = jQuery(".huge_it_slideshow_image_wrap_3").parent().width();
+
+	     if (sliderwidth > parentWidth) {
+		     sliderwidth = parentWidth;
+	     }
+	     if (sliderwidth > bodyWidth) {
+		     sliderwidth = bodyWidth;
+	     }
+		var str=350/(staticsliderwidth);
+                var str2 =100/600;
+                var sliderDynamicImageHeight = sliderwidth*str;
+                                    var sliderDynamicThumbHeight = 0;
+                
+                jQuery('.huge_it_slideshow_image_wrap_3').css({'max-height':sliderDynamicImageHeight+sliderDynamicThumbHeight});
+                jQuery('.huge_it_slideshow_image_wrap1_3').css({'max-height':sliderDynamicImageHeight});
+                jQuery('.huge_it_slideshow_thumbs_3 li').css({'max-height':sliderDynamicThumbHeight});
+
+                jQuery("#huge_it_loading_image_3").css({display: "none"});
+                jQuery(".huge_it_slideshow_image_wrap1_3").css({opacity: 1});
+				jQuery(".huge_it_slideshow_image_wrap_3").removeClass("nocolor");
+
+
+
+		if ("resize"=="crop"){
+                        jQuery(".huge_it_slider_ul li img").each(function(){
+                            if(jQuery(this).prop('naturalWidth')>jQuery(this).prop('naturalHeight'))
+                                jQuery(this).css({'width':'100%','height':'auto'/*,'top':'50%','left':'50%','transform':'translate( -50%, -50% )'*/});
+                            else{
+                                jQuery(this).css({'height':'100%','width':'auto'/*,'top':'50%','left':'50%','transform':'translate( -50%, -50% )'*/});
+                            }
+                        });
+		}
+                                    jQuery(".huge_it_slideshow_image_wrap_3").css({opacity:1});
+                      }
+      
+      jQuery(window).load(function () {
+		jQuery(window).resize(function() {
+			huge_it_popup_resize_3();
+		});
+		
+		jQuery('#huge_it_slideshow_left_3').on('click',function(){
+			huge_it_change_image_3(parseInt(jQuery('#huge_it_current_image_key_3').val()), (parseInt(jQuery('#huge_it_current_image_key_3').val()) - iterator_3()) >= 0 ? (parseInt(jQuery('#huge_it_current_image_key_3').val()) - iterator_3()) % data_3.length : data_3.length - 1, data_3,false,true);
+			return false;
+		});
+		
+		jQuery('#huge_it_slideshow_right_3').on('click',function(){
+			huge_it_change_image_3(parseInt(jQuery('#huge_it_current_image_key_3').val()), (parseInt(jQuery('#huge_it_current_image_key_3').val()) + iterator_3()) % data_3.length, data_3,false,true);
+			return false;
+		});
+	
+
+		
+	
+		
+		huge_it_popup_resize_3();
+        /* Disable right click.*/
+        jQuery('div[id^="huge_it_container"]').bind("contextmenu", function () {
+          return false;
+        });
+        			
+		/*HOVER SLIDESHOW*/
+		jQuery("#huge_it_slideshow_image_container_3, .huge_it_slideshow_image_container_3, .huge_it_slideshow_dots_container_3,#huge_it_slideshow_right_3,#huge_it_slideshow_left_3").hover(function(){
+			jQuery("#huge_it_slideshow_right_3").css({'display':'inline'});
+			jQuery("#huge_it_slideshow_left_3").css({'display':'inline'});
+		},function(){
+			jQuery("#huge_it_slideshow_right_3").css({'display':'none'});
+			jQuery("#huge_it_slideshow_left_3").css({'display':'none'});
+		});
+		
+		if(pausehover=="on" && !/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){
+			jQuery("#huge_it_slideshow_image_container_3, .huge_it_slideshow_image_container_3").hover(function(){
+				window.clearInterval(huge_interval['huge_it_playInterval_'+3]);
+                scrolling = false;
+			},function(){
+				window.clearInterval(huge_interval['huge_it_playInterval_'+3]);
+                scrolling = true;                                   
+				play_3();
+			});		
+		}	
+          play_3();        
+      });
+        function play_3(){
+            if(scrolling || /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){
+                huge_interval['huge_it_playInterval_'+3] = setInterval(function () {
+                  var iterator = 1;
+                  huge_it_change_image_3(parseInt(jQuery('#huge_it_current_image_key_3').val()), (parseInt(jQuery('#huge_it_current_image_key_3').val()) + iterator) % data_3.length, data_3,false,false);
+                }, '3000');
+            }  
+        }
+      jQuery(window).focus(function() {
+        var i_3 = 0;
+        jQuery(".huge_it_slider_3").children("div").each(function () {
+          if (jQuery(this).css('opacity') == 1) {
+            jQuery("#huge_it_current_image_key_3").val(i_3);
+          }
+          i_3++;
+        });
+      });
+      jQuery(window).blur(function() {
+	console.log(event_stack_3);
+        window.clearInterval(huge_interval['huge_it_playInterval_'+3]);
+      });  
+      jQuery(window).focus(function() {
+		play_3()
+	});     
+    </script>
+<style>
+
+.imgc_slider #slider77 {
+	border-color: aqua;
+    border-width: 3px;
+	text-transform: uppercase;
+	list-style: none;
+	outline: none;
+}
+
+	.thumb_image{
+		  position: absolute;
+		  width: 100%;
+		  height: 100%;
+		  top: 0;
+		  left:0;
+	}
+	.entry-content a{
+		border-bottom: none !important;
+	}
+	.play-button-slider{
+		top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+	}
+	.youtube-icon { position: absolute;
+    
+    background:url(http://5лицей.рф/wp-content/plugins/slider-image/images/play.youtube.png) center center no-repeat;background-size:14%;}
+</style>
+	
+<div class="huge_it_slideshow_image_wrap_3 ">
+			<div id="huge_it_loading_image_3" class="nodisplay"> <img src="http://5лицей.рф/wp-content/plugins/slider-image/Front_images/loading/loading1.gif"  alt="" width="100" height="100" style=" margin: 0 auto;" /> </div>
+		<div class="huge_it_slideshow_image_wrap1_3" class="display">
+	            
+		<!-- ##########################DOTS######################### -->
+        <div class="huge_it_slideshow_dots_container_3">
+			  <div class="huge_it_slideshow_dots_thumbnails_3">
+				  							  <div id="huge_it_dots_0_3"
+							       class="huge_it_slideshow_dots_3 huge_it_slideshow_dots_active_3"
+							       onclick="if(jQuery(this).hasClass('huge_it_slideshow_dots_active_3')) { return false; } huge_it_change_image_3(parseInt(jQuery('#huge_it_current_image_key_3').val()), '0', data_3,false,true);return false;"
+							       data-image_id="8"
+							       data-image_key="0"></div>
+							  							  <div id="huge_it_dots_1_3"
+							       class="huge_it_slideshow_dots_3 huge_it_slideshow_dots_deactive_3"
+							       onclick="if(jQuery(this).hasClass('huge_it_slideshow_dots_active_3')) { return false; } huge_it_change_image_3(parseInt(jQuery('#huge_it_current_image_key_3').val()), '1', data_3,false,true);return false;"
+							       data-image_id="6"
+							       data-image_key="1"></div>
+							  							  <div id="huge_it_dots_2_3"
+							       class="huge_it_slideshow_dots_3 huge_it_slideshow_dots_deactive_3"
+							       onclick="if(jQuery(this).hasClass('huge_it_slideshow_dots_active_3')) { return false; } huge_it_change_image_3(parseInt(jQuery('#huge_it_current_image_key_3').val()), '2', data_3,false,true);return false;"
+							       data-image_id="7"
+							       data-image_key="2"></div>
+							  			  </div>
+			
+							<a id="huge_it_slideshow_left_3" href="#">
+					<div id="huge_it_slideshow_left-ico_3">
+					<div><i class="huge_it_slideshow_prev_btn_3 fa"></i></div></div>
+				</a>
+				
+				<a id="huge_it_slideshow_right_3" href="#">
+					<div id="huge_it_slideshow_right-ico_3">
+					<div><i class="huge_it_slideshow_next_btn_3 fa"></i></div></div>
+				</a>
+					</div>
+	  <!-- ##########################IMAGES######################### -->
+
+      <div id="huge_it_slideshow_image_container_3" class="huge_it_slideshow_image_container_3">        
+        <div class="huge_it_slide_container_3">
+          <div class="huge_it_slide_bg_3">
+            <ul class="huge_it_slider_3">
+			  					  <li class="huge_it_slideshow_image_item_3" id="image_id_3_0">      
+						                                                						<img id="huge_it_slideshow_image_3_0" class="huge_it_slideshow_image_3" src="http://5лицей.рф/wp-content/uploads/2019/06/IMG_6831.jpg"  alt="" data-image_id="8" />
+								
+						<div class="huge_it_slideshow_title_text_3 none">
+													</div>
+						<div class="huge_it_slideshow_description_text_3 none">
+													</div>
+					  </li>
+					  					  <li class="huge_it_slideshow_image_second_item_3" id="image_id_3_1">      
+						                                                						<img id="huge_it_slideshow_image_3_1" class="huge_it_slideshow_image_3" src="http://5лицей.рф/wp-content/uploads/2015/12/IMG_5114.jpg"  alt="" data-image_id="6" />
+								
+						<div class="huge_it_slideshow_title_text_3 none">
+													</div>
+						<div class="huge_it_slideshow_description_text_3 none">
+													</div>
+					  </li>
+					  					  <li class="huge_it_slideshow_image_second_item_3" id="image_id_3_2">      
+						                                                						<img id="huge_it_slideshow_image_3_2" class="huge_it_slideshow_image_3" src="http://5лицей.рф/wp-content/uploads/2019/06/IMG_6824.jpg"  alt="" data-image_id="7" />
+								
+						<div class="huge_it_slideshow_title_text_3 none">
+													</div>
+						<div class="huge_it_slideshow_description_text_3 none">
+													</div>
+					  </li>
+					              </ul>
+          </div>
+		  <input  type="hidden" id="huge_it_current_image_key_3" value="0" />
+        </div>
+      </div>
+	</div>
+<!-- slider thumbs  -->
+
+<script>
+	jQuery(document).ready(function(jQuery) {
+		setInterval(function() {
+			jQuery('.huge_it_slider_3').find("li").each(function() {
+
+				if (jQuery(this).css("opacity") == "1") {
+
+					var img_id = jQuery(this).attr('id');
+					jQuery('.huge_it_slideshow_thumbs_3').each(function() {
+						var allListElements = jQuery('li[id=' + img_id + ']');
+
+						jQuery(this).find(allListElements).not(".bx-clone").each(function() {
+							jQuery('.huge_it_slideshow_thumbs_3 li').find(".trans_back").css('background', 'rgba(255,255,255,0.3)');
+							jQuery(this).find('.trans_back').css('background', 'none');
+						})
+					})
+				}
+			})
+		}, 100)
+	})
+</script>
+
+	
+
+		</div>
+	
+<code></code></p>
+<p style="text-align: center;"><a href="http://xn--5-jtbifh1e.xn--p1ai/litseyu/" target="_blank" rel="noopener"><span style="color: #000080;"><strong>ЛИЦЕЮ</strong></span></a></p>
+<h3 style="text-align: center;"></h3>
+<p style="text-align: justify;"><div class="su-tabs su-tabs-style-default my-custom-tabs" data-active="1"><div class="su-tabs-nav"><span class="" data-url="" data-target="blank">САМОЕ НОВОЕ</span><span class="" data-url="" data-target="blank">НОВОСТИ</span><span class="" data-url="" data-target="blank">ОБЪЯВЛЕНИЯ</span></div><div class="su-tabs-panes"><div class="su-tabs-pane su-clearfix"> <div class="su-posts su-posts-teaser-loop">
+					<div id="su-post-14897" class="su-post">
+										<h2 class="su-post-title"><a href="http://5лицей.рф/grafik-provedeniya-onlajn-konsultatsij-po-podgotovke-k-gosudarstvennoj-itogovoj-attestatsii-na-osennih-kanikulah-2021-2022-uchebnogo-goda/">График проведения онлайн консультаций по подготовке к государственной итоговой аттестации на осенних каникулах 2021 &#8211; 2022 учебного года</a></h2>
+				</div>
+								<div id="su-post-14860" class="su-post">
+										<h2 class="su-post-title"><a href="http://5лицей.рф/o-vserossijskoj-onlajn-olimpiade-dlya-shkolnikov-1-9-klassov-bezopasnye-dorogi/">О Всероссийской онлайн-олимпиаде для школьников 1-9 классов &#8220;Безопасные дороги&#8221;</a></h2>
+				</div>
+								<div id="su-post-14829" class="su-post">
+										<h2 class="su-post-title"><a href="http://5лицей.рф/19-oktyabrya-vserossijskij-den-litseista/">19 октября &#8211; Всероссийский День лицеиста</a></h2>
+				</div>
+								<div id="su-post-14832" class="su-post">
+										<h2 class="su-post-title"><a href="http://5лицей.рф/o-gorodskom-zaochnom-konkurse-bezopasnost-glazami-detej-posvyashhennomu-vsemirnomu-dnyu-pamyati-zhertv-dtp/">О городском заочном конкурсе «Безопасность глазами детей», посвященному Всемирному Дню памяти жертв ДТП</a></h2>
+				</div>
+								<div id="su-post-14857" class="su-post">
+										<h2 class="su-post-title"><a href="http://5лицей.рф/o-mezhdunarodnoj-prosvetitelskoj-aktsii-bolshoj-etnograficheskij-diktant-2021/">О Международной просветительской акции  «Большой этнографический диктант-2021»</a></h2>
+				</div>
+				</div> <a href="http://5лицей.рф/category/novosti/" class="su-button su-button-style-default" style="color:#FFFFFF;background-color:#2E6198;border-color:#254e7a;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank"><span style="color:#FFFFFF;padding:0px 16px;font-size:13px;line-height:26px;border-color:#6d90b7;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"> ВСЕ НОВОСТИ</span></a> </div>
+<div class="su-tabs-pane su-clearfix"> <div class="su-posts su-posts-default-loop">
+	
+				<div id="su-post-14897" class="su-post">
+										<h2 class="su-post-title"><a href="http://5лицей.рф/grafik-provedeniya-onlajn-konsultatsij-po-podgotovke-k-gosudarstvennoj-itogovoj-attestatsii-na-osennih-kanikulah-2021-2022-uchebnogo-goda/">График проведения онлайн консультаций по подготовке к государственной итоговой аттестации на осенних каникулах 2021 &#8211; 2022 учебного года</a></h2>
+					<div class="su-post-meta">Опубликовано: Октябрь 25, 2021</div>
+					<div class="su-post-excerpt">
+						<p>График проведения онлайн консультаций по подготовке к государственной итоговой аттестации на осенних каникулах 2021 &#8211; 2022 учебного года в 9 и 11 классах</p>
+					</div>
+					<a href="http://5лицей.рф/grafik-provedeniya-onlajn-konsultatsij-po-podgotovke-k-gosudarstvennoj-itogovoj-attestatsii-na-osennih-kanikulah-2021-2022-uchebnogo-goda/#respond" class="su-post-comments-link">нет комментариев</a>
+				</div>
+
+				
+				<div id="su-post-14860" class="su-post">
+										<h2 class="su-post-title"><a href="http://5лицей.рф/o-vserossijskoj-onlajn-olimpiade-dlya-shkolnikov-1-9-klassov-bezopasnye-dorogi/">О Всероссийской онлайн-олимпиаде для школьников 1-9 классов &#8220;Безопасные дороги&#8221;</a></h2>
+					<div class="su-post-meta">Опубликовано: Октябрь 21, 2021</div>
+					<div class="su-post-excerpt">
+						<p>ОЛИМПИАДА «БЕЗОПАСНЫЕ ДОРОГИ» 2021 В Оренбургской области пройдет Всероссийская онлайн-олимпиада для школьников 1-9 классов &#8220;Безопасные дороги&#8221;. В рамках национального проекта «Безопасные качественные дороги» Минтранс России и МВД России, совместно с Министерством Просвещения и АНО «Национальные приоритеты», проводят Всероссийскую онлайн-олимпиаду для школьников 1-9 классов «Безопасные дороги» на знание основ безопасного поведения на дорогах. Олимпиада пройдет на [&hellip;]</p>
+					</div>
+					<a href="http://5лицей.рф/o-vserossijskoj-onlajn-olimpiade-dlya-shkolnikov-1-9-klassov-bezopasnye-dorogi/#respond" class="su-post-comments-link">нет комментариев</a>
+				</div>
+
+				
+				<div id="su-post-14829" class="su-post">
+										<h2 class="su-post-title"><a href="http://5лицей.рф/19-oktyabrya-vserossijskij-den-litseista/">19 октября &#8211; Всероссийский День лицеиста</a></h2>
+					<div class="su-post-meta">Опубликовано: Октябрь 18, 2021</div>
+					<div class="su-post-excerpt">
+						<p>19 октября &#8211; Всероссийский День лицеиста. Уважаемые учителя! Дорогие учащиеся! Всероссийский день лицеиста, отмечаемый ежегодно 19 октября, обязан своим появлением учебному заведению, которое известно каждому образованному человеку в России. Именно 19 октября (по старому стилю) 1811 года открылся Императорский Царскосельский лицей, в котором воспитывались Александр Пушкин и многие другие люди, прославившие его. Лицей был основан [&hellip;]</p>
+					</div>
+					<a href="http://5лицей.рф/19-oktyabrya-vserossijskij-den-litseista/#respond" class="su-post-comments-link">нет комментариев</a>
+				</div>
+
+				
+				<div id="su-post-14832" class="su-post">
+										<h2 class="su-post-title"><a href="http://5лицей.рф/o-gorodskom-zaochnom-konkurse-bezopasnost-glazami-detej-posvyashhennomu-vsemirnomu-dnyu-pamyati-zhertv-dtp/">О городском заочном конкурсе «Безопасность глазами детей», посвященному Всемирному Дню памяти жертв ДТП</a></h2>
+					<div class="su-post-meta">Опубликовано: Октябрь 17, 2021</div>
+					<div class="su-post-excerpt">
+						<p>Городской заочный конкурс «Безопасность глазами детей», посвященный Всемирному Дню памяти жертв ДТП (21 ноября 2021 года). С целью профилактики детского дорожно – транспортного травматизма, привлечения внимания широкой общественности к проблемам безопасности дорожного движения с 01.10.2021 г. по 17.11.2021 г. проводится конкурс рисунков «ПДД знай – по дороге не гуляй» и конкурс поделок «Дорога безопасности».  Условия [&hellip;]</p>
+					</div>
+					<a href="http://5лицей.рф/o-gorodskom-zaochnom-konkurse-bezopasnost-glazami-detej-posvyashhennomu-vsemirnomu-dnyu-pamyati-zhertv-dtp/#respond" class="su-post-comments-link">нет комментариев</a>
+				</div>
+
+				
+				<div id="su-post-14857" class="su-post">
+										<h2 class="su-post-title"><a href="http://5лицей.рф/o-mezhdunarodnoj-prosvetitelskoj-aktsii-bolshoj-etnograficheskij-diktant-2021/">О Международной просветительской акции  «Большой этнографический диктант-2021»</a></h2>
+					<div class="su-post-meta">Опубликовано: Октябрь 15, 2021</div>
+					<div class="su-post-excerpt">
+						<p>Пресс-релиз  Международной просветительской акции «Большой этнографический диктант-2021»  Оренбургская область присоединяется к Большому этнографическому диктанту «Народов много – страна одна!» &#8211; под таким лозунгом уже в шестой раз состоится Международная просветительская акция «Большой этнографический диктант». Акция проводится в единый период – с 3 по 7 ноября 2021 года в онлайн-формате на сайте www.miretno.ru и традиционно приурочена [&hellip;]</p>
+					</div>
+					<a href="http://5лицей.рф/o-mezhdunarodnoj-prosvetitelskoj-aktsii-bolshoj-etnograficheskij-diktant-2021/#respond" class="su-post-comments-link">нет комментариев</a>
+				</div>
+
+				</div> <a href="http://5лицей.рф/category/novosti/" class="su-button su-button-style-default" style="color:#FFFFFF;background-color:#2E6198;border-color:#254e7a;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank"><span style="color:#FFFFFF;padding:0px 16px;font-size:13px;line-height:26px;border-color:#6d90b7;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"> ВСЕ НОВОСТИ</span></a> </div>
+<div class="su-tabs-pane su-clearfix"> <div class="su-posts su-posts-default-loop">
+	<h4>Записи не найдены</h4></div><a href="http://5лицей.рф/category/obyavleniya/" class="su-button su-button-style-default" style="color:#FFFFFF;background-color:#2E6198;border-color:#254e7a;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank"><span style="color:#FFFFFF;padding:0px 16px;font-size:13px;line-height:26px;border-color:#6d90b7;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"> ВСЕ ОБЪЯВЛЕНИЯ</span></a> </div></div></div>
+<p>&nbsp;</p>
+
+	
+	
+	
+	</div>
+
+<footer class="entry-footer cf">
+	
+	
+	
+	</footer>
+
+
+</article>
+
+
+
+			<div id="comment-area">
+<div id="comments">
+	
+	</div></div>
+			
+	
+	
+	
+			<div id="widgets-wrap-after-content" class="cf"><div id="archives-4" class="widget-after-content frontier-widget widget_archive"><h4 class="widget-title">ВСЕ НОВОСТИ</h4>		<ul>
+			<li><a href='http://5лицей.рф/2021/10/'>Октябрь 2021</a></li>
+	<li><a href='http://5лицей.рф/2021/09/'>Сентябрь 2021</a></li>
+	<li><a href='http://5лицей.рф/2021/08/'>Август 2021</a></li>
+	<li><a href='http://5лицей.рф/2021/07/'>Июль 2021</a></li>
+	<li><a href='http://5лицей.рф/2021/06/'>Июнь 2021</a></li>
+	<li><a href='http://5лицей.рф/2021/05/'>Май 2021</a></li>
+	<li><a href='http://5лицей.рф/2021/04/'>Апрель 2021</a></li>
+	<li><a href='http://5лицей.рф/2021/03/'>Март 2021</a></li>
+	<li><a href='http://5лицей.рф/2021/02/'>Февраль 2021</a></li>
+	<li><a href='http://5лицей.рф/2021/01/'>Январь 2021</a></li>
+	<li><a href='http://5лицей.рф/2020/12/'>Декабрь 2020</a></li>
+	<li><a href='http://5лицей.рф/2020/11/'>Ноябрь 2020</a></li>
+	<li><a href='http://5лицей.рф/2020/10/'>Октябрь 2020</a></li>
+	<li><a href='http://5лицей.рф/2020/09/'>Сентябрь 2020</a></li>
+	<li><a href='http://5лицей.рф/2020/08/'>Август 2020</a></li>
+	<li><a href='http://5лицей.рф/2020/07/'>Июль 2020</a></li>
+	<li><a href='http://5лицей.рф/2020/06/'>Июнь 2020</a></li>
+	<li><a href='http://5лицей.рф/2020/05/'>Май 2020</a></li>
+	<li><a href='http://5лицей.рф/2020/04/'>Апрель 2020</a></li>
+	<li><a href='http://5лицей.рф/2020/03/'>Март 2020</a></li>
+	<li><a href='http://5лицей.рф/2020/02/'>Февраль 2020</a></li>
+	<li><a href='http://5лицей.рф/2019/10/'>Октябрь 2019</a></li>
+	<li><a href='http://5лицей.рф/2019/02/'>Февраль 2019</a></li>
+		</ul>
+		</div></div>
+	
+</div>
+
+<div id="sidebar-left" class="sidebar cf">
+		<div id="widgets-wrap-sidebar-left">
+
+					<div id="text-27" class="widget-sidebar frontier-widget widget_text">			<div class="textwidget"><span class="su-tooltip" data-close="no" data-behavior="hover" data-my="top center" data-at="bottom center" data-classes="su-qtip qtip-light su-qtip-size-default" data-title="" title="Участник рейтинга 500 лучших школ России 2016"><img class="alignleft size-full wp-image-6153" src="http://5лицей.рф/wp-content/uploads/2018/10/TOP-500-1.jpg" alt="" width="250" height="195" /></span>
+
+
+
+
+
+
+</div>
+		</div><div id="text-2" class="widget-sidebar frontier-widget widget_text">			<div class="textwidget"><a href="http://de.edu.orb.ru/auth/login" target="_blank"><img class="aligncenter wp-image-713" src="http://5лицей.рф/wp-content/uploads/2015/10/sc.png" alt="sc" width="240" height="26" /></a>
+</div>
+		</div><div id="text-24" class="widget-sidebar frontier-widget widget_text">			<div class="textwidget"><img class="aligncenter wp-image-4028" src="http://5лицей.рф/wp-content/uploads/2015/10/MEDAL-LAUREATA.png" alt="medal-laureata" width="240" height="240" /></div>
+		</div><div id="text-3" class="widget-sidebar frontier-widget widget_text">			<div class="textwidget"><a href="https://edu.gov.ru" target="_blank"><img class="aligncenter wp-image-713" src="http://5лицей.рф/wp-content/uploads/2021/09/minpro.png" alt="sc" width="240" height="26" /></a></div>
+		</div><div id="text-7" class="widget-sidebar frontier-widget widget_text">			<div class="textwidget"><p style="text-align: left;"><a href="http://www.fipi.ru/" target="_blank"><img class="wp-image-719 size-full aligncenter" src="http://5лицей.рф/wp-content/uploads/2015/10/logo.jpg" alt="" width="65" height="89" /></a></p>
+
+<div class="header-education__rus-edu">
+<h1 style="text-align: center; font-size: 14px; font-family: 'Roboto Condensed', Sans-serif; text-transform: uppercase;"><a href="http://www.fipi.ru/" target="_blank">ФЕДЕРАЛЬНЫЙ ИНСТИТУТ ПЕДАГОГИЧЕСКИХ ИЗМЕРЕНИЙ</a></h1>
+</div></div>
+		</div><div id="text-8" class="widget-sidebar frontier-widget widget_text">			<div class="textwidget"><div class="header-education__rus-edu" style="text-align: center;">
+<h1 style="text-align: center; font-size: 14px; font-family: 'Roboto Condensed', Sans-serif; text-transform: uppercase;"><a href="http://window.edu.ru/" target="_blank">ЕДИНОЕ ОКНО
+Доступа к информационным ресурсам</a></h1>
+</div></div>
+		</div><div id="text-25" class="widget-sidebar frontier-widget widget_text">			<div class="textwidget"><a href="https://www.gosuslugi.ru/" target="_blank"><img class="aligncenter wp-image-5586 size-full" src="http://5лицей.рф/wp-content/uploads/2017/03/gosuslugi.png" width="82" height="91" /></a></div>
+		</div><div id="text-28" class="widget-sidebar frontier-widget widget_text">			<div class="textwidget"><p><a href="http://персональныеданные.дети"><img class="alignleft size-medium wp-image-7974" src="http://5лицей.рф/wp-content/uploads/2018/08/person_dannie-300x80.jpg" alt="" width="300" height="80" /></a></p>
+</div>
+		</div>		
+	</div>
+	</div><div id="sidebar-right" class="sidebar cf">
+		<div id="widgets-wrap-sidebar-right">
+
+					<div id="search-2" class="widget-sidebar frontier-widget widget_search"><form role="search" method="get" class="search-form" action="http://5лицей.рф/">
+				<label>
+					<span class="screen-reader-text">Найти:</span>
+					<input type="search" class="search-field" placeholder="Поиск&hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Поиск" />
+			</form></div><div id="wp_cr_plugin-2" class="widget-sidebar frontier-widget widget_wp_cr_plugin"><div id="cr_widget"><a href="#" id="cr_version_link">ПЕРЕКЛЮЧИТЬ НА ВЕРСИЮ САЙТА ДЛЯ СЛАБОВИДЯЩИХ ЛЮДЕЙ</a></div></div><div id="text-15" class="widget-sidebar frontier-widget widget_text"><h4 class="widget-title">КАРТА САЙТА</h4>			<div class="textwidget"><a href="http://5лицей.рф/karta-sajta/" target="_blank"><img class="aligncenter wp-image-4983" src="http://5лицей.рф/wp-content/uploads/2015/10/eiMdKqpdT-300x300.png" width="80" height="80" /></a></div>
+		</div><div id="text-14" class="widget-sidebar frontier-widget widget_text"><h4 class="widget-title">ЭЛЕКТРОННАЯ ПРИЁМНАЯ</h4>			<div class="textwidget"><p style="text-align: center;"><a href="http://5лицей.рф/elektronnaya-priyomnaya/"><img class="alignnone wp-image-727" src="http://5лицей.рф/wp-content/uploads/2015/10/buttons.png" alt="buttons" width="180" height="57" /></a></p></div>
+		</div><div id="text-29" class="widget-sidebar frontier-widget widget_text">			<div class="textwidget"><p><a href="http://5лицей.рф/organizatsiya-pitaniya/"><img class="alignleft size-medium wp-image-12890" src="http://5лицей.рф/wp-content/uploads/2020/12/knopka_pitanie-300x91.png" alt="" width="300" height="91" /></a></p>
+</div>
+		</div><div id="calendar-2" class="widget-sidebar frontier-widget widget_calendar"><div id="calendar_wrap" class="calendar_wrap"><table id="wp-calendar">
+	<caption>Октябрь 2021</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="Понедельник">Пн</th>
+		<th scope="col" title="Вторник">Вт</th>
+		<th scope="col" title="Среда">Ср</th>
+		<th scope="col" title="Четверг">Чт</th>
+		<th scope="col" title="Пятница">Пт</th>
+		<th scope="col" title="Суббота">Сб</th>
+		<th scope="col" title="Воскресенье">Вс</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td colspan="3" id="prev"><a href="http://5лицей.рф/2021/09/">&laquo; Сен</a></td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next" class="pad">&nbsp;</td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr>
+		<td colspan="4" class="pad">&nbsp;</td><td>1</td><td>2</td><td>3</td>
+	</tr>
+	<tr>
+		<td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td>
+	</tr>
+	<tr>
+		<td><a href="http://5лицей.рф/2021/10/11/" aria-label="Записи, опубликованные 11.10.2021">11</a></td><td>12</td><td>13</td><td>14</td><td><a href="http://5лицей.рф/2021/10/15/" aria-label="Записи, опубликованные 15.10.2021">15</a></td><td>16</td><td><a href="http://5лицей.рф/2021/10/17/" aria-label="Записи, опубликованные 17.10.2021">17</a></td>
+	</tr>
+	<tr>
+		<td><a href="http://5лицей.рф/2021/10/18/" aria-label="Записи, опубликованные 18.10.2021">18</a></td><td>19</td><td>20</td><td><a href="http://5лицей.рф/2021/10/21/" aria-label="Записи, опубликованные 21.10.2021">21</a></td><td>22</td><td>23</td><td>24</td>
+	</tr>
+	<tr>
+		<td><a href="http://5лицей.рф/2021/10/25/" aria-label="Записи, опубликованные 25.10.2021">25</a></td><td>26</td><td id="today">27</td><td>28</td><td>29</td><td>30</td><td>31</td>
+	</tr>
+	</tbody>
+	</table></div></div>		
+	</div>
+	</div></div>
+
+	<div id="footer" class="cf">
+		<div id="widgets-wrap-footer" class="widget-column-3 cf">
+			<div id="text-11" class="widget-footer frontier-widget widget_text"><h4 class="widget-title">АДРЕС:</h4>			<div class="textwidget"><p style="text-align: center; font-size: 14px; font-family: 'Roboto Condensed', Sans-serif; text-transform: uppercase;font-weight: bold;"> 460052, город Оренбург,</p>
+<p style="text-align: center; font-size: 14px; font-family: 'Roboto Condensed', Sans-serif; text-transform: uppercase;font-weight: bold;">ул. Джангильдина, д. 11/1,</p>
+<p style="text-align: center; font-size: 14px; font-family: 'Roboto Condensed', Sans-serif; text-transform: uppercase;font-weight: bold;">ул. Джангильдина, д. 15/1 (начальная школа) <a href="http://5лицей.рф/wp-content/uploads/2015/10/karta2.png"><img class="wp-image-732 size-full aligncenter" src="http://5лицей.рф/wp-content/uploads/2015/10/karta2.png" alt="" width="25" height="25" /></a><span style="color: #C5A50E;"><a style="color: #FDE168;font-weight: bold;font-size:12px;" href="https://maps.yandex.ru/?um=constructor:Sf0Bf0-AQnbLtLXKGVPTo1ajklGybXge" target="_blank">ПОКАЗАТЬ НА КАРТЕ</a></span></p></div>
+		</div><div id="text-12" class="widget-footer frontier-widget widget_text">			<div class="textwidget"><img class="size-full wp-image-1051 aligncenter" src="http://5лицей.рф/wp-content/uploads/2015/10/footer1.png" alt="footer" width="300" height="179" /></div>
+		</div><div id="text-13" class="widget-footer frontier-widget widget_text"><h4 class="widget-title">РЕЖИМ РАБОТЫ ЛИЦЕЯ:</h4>			<div class="textwidget"><p style="text-align: center; font-size: 14px; font-family: 'Roboto Condensed', Sans-serif; text-transform: uppercase;font-weight: bold;">Понедельник - пятница 8.00-19.00</p> 
+<p style="text-align: center; font-size: 14px; font-family: 'Roboto Condensed', Sans-serif; text-transform: uppercase;font-weight: bold;">Суббота - 8.00-18.00</p>
+<p style="text-align: center; font-size: 14px; font-family: 'Roboto Condensed', Sans-serif; text-transform: uppercase;font-weight: bold;">Воскресенье - выходной</p>
+<p style="text-align: center; font-size: 14px; font-family: 'Roboto Condensed', Sans-serif; text-transform: uppercase;font-weight: bold;">
+Свидетельство о лицензии</p>
+<p style="text-align: center; font-size: 14px; font-family: 'Roboto Condensed', Sans-serif; text-transform: uppercase;font-weight: bold;">E-mail: 77@orenschool.ru</p></div>
+		</div>		</div>
+	</div>
+
+<div id="bottom-bar" class="cf">
+	
+			<span id="bottom-bar-text">Лицей №5 &copy; 2015 Все права защищены<p style="text-align: right;margin-top:-20px"><a href="http://dizain-online56.ru/" target="_blank"><img class="wp-image-1323 alignright" style="margin-top:-10px" src="http://5лицей.рф/wp-content/uploads/2015/10/logotip.png" alt="логотип" width="30" height="29" /></a><span style="color: #333333"><a style="color: #333333" href="http://dizain-online56.ru/" target="_blank">Создание сайтов</a></span></p></span>
+	
+					<span id="theme-link"><a href="http://ronangelo.com/frontier/">Frontier Theme</a></span>
+	
+	</div>
+
+</div>
+
+
+<script>
+    jQuery(document).ready(function () {
+		jQuery.post('http://5лицей.рф?ga_action=googleanalytics_get_script', {action: 'googleanalytics_get_script'}, function(response) {
+			var F = new Function ( response );
+			return( F() );
+		});
+    });
+</script><center><a href="https://sprinthost.ru/c1227/">Сайт размещается на хостинге Спринтхост</a></center>
+	<style>
+		/***<add>***/
+		#huge_it_loading_image_ {
+			height:px;
+			width:px;
+			display: table-cell;
+			text-align: center;
+			vertical-align: middle;
+		}
+		#huge_it_loading_image_.display {
+			display: table-cell;
+		}
+		#huge_it_loading_image_.nodisplay {
+			display: none;
+		}
+		#huge_it_loading_image_ img {
+			margin: auto 0;
+			width: 20% !important;
+
+		}
+
+		.huge_it_slideshow_image_wrap_ {
+			height:0px;
+			width:0px;
+			max-width: calc(100% - 0px);
+			position:relative;
+			display: block;
+			text-align: center;
+			/*HEIGHT FROM HEADER.PHP*/
+			clear:both;
+
+		float:none; margin:0px auto;			border-style: solid;
+			border-left: 0 !important;
+			border-right: 0 !important;
+				}
+
+		.huge_it_slideshow_image_wrap1_.display {
+			width: 100%;
+			height: 100%;
+		}
+
+		.huge_it_slideshow_image_wrap1_.display {
+			display: block;
+		}
+
+		.huge_it_slideshow_image_wrap1_.nodisplay {
+			opacity: 0;
+		}
+
+		.huge_it_slideshow_image_wrap_ * {
+			box-sizing: border-box;
+			-moz-box-sizing: border-box;
+			-webkit-box-sizing: border-box;
+		}
+
+		.huge_it_slideshow_image_ {
+		 width: 100%;
+			height: 100%;
+		 max-width: 100%;
+			max-height: 100%;
+
+		}
+		.huge_it_slideshow_image_wrap1_{
+			height:0px;
+			width:0px;
+			max-width: 100%;
+		}
+		#huge_it_slideshow_left_,
+		#huge_it_slideshow_right_ {
+			cursor: pointer;
+			display:none;
+			height: 100%;
+			outline: medium none;
+			position: absolute;
+			z-index: 13;
+					margin-top: 0 !important;
+			top: 50%;
+			transform: translateY(-50%);
+				}
+
+		#huge_it_slideshow_left-ico_,
+		#huge_it_slideshow_right-ico_ {
+			z-index: 13;
+			-moz-box-sizing: content-box;
+			box-sizing: content-box;
+			cursor: pointer;
+			display: table;
+			left: -9999px;
+			line-height: 0;
+			margin-top: -15px;
+			position: absolute;
+			top: 50%;
+			/*z-index: 10135;*/
+		}
+		#huge_it_slideshow_left-ico_:hover,
+		#huge_it_slideshow_right-ico_:hover {
+			cursor: pointer;
+		}
+
+		.huge_it_slideshow_image_container_ {
+			display: table;
+			position: relative;
+			top:0;
+			left:0;
+			text-align: center;
+			vertical-align: middle;
+			width:100%;
+			overflow:hidden;
+			height: 100%;
+		}
+
+		.huge_it_slideshow_title_text_ {
+			text-decoration: none;
+			position: absolute;
+			z-index: 11;
+			display: inline-block;
+		 width: 24%;
+			/*height:
+		44 %;*/
+
+		right:3%;top:3%; padding: 2%;
+			text-align: right;
+			font-weight: bold;
+			color: #000000;
+
+			background: rgba(255,255,255,0.7)  !important;
+			border-style: solid;
+			font-size: 13px;
+			border-width: 0px;
+			border-color: #ffffff;
+			border-radius: 4px;
+		}
+
+		.huge_it_slideshow_description_text_ {
+			text-decoration: none;
+			position: absolute;
+			z-index: 11;
+			border-style:solid;
+			display: inline-block;
+		
+			width:64%;
+			/*height:44%;*/
+		right:3%;bottom:3%;			padding:3%;
+			text-align:justify;
+			color:#ffffff;
+
+			background:rgba(0,0,0,0.7) !important;
+			border-style:solid;
+			font-size:13px;
+			border-width:0px;
+			border-color:#ffffff;
+			border-radius:0px;
+		}
+
+		.huge_it_slideshow_title_text_.none, .huge_it_slideshow_description_text_.none,
+		.huge_it_slideshow_title_text_.hidden, .huge_it_slideshow_description_text_.hidden	   {display:none;}
+
+		.huge_it_slideshow_title_text_ h1, .huge_it_slideshow_description_text_ h1,
+		.huge_it_slideshow_title_text_ h2, .huge_it_slideshow_title_text_ h2,
+		.huge_it_slideshow_title_text_ h3, .huge_it_slideshow_title_text_ h3,
+		.huge_it_slideshow_title_text_ h4, .huge_it_slideshow_title_text_ h4,
+		.huge_it_slideshow_title_text_ p, .huge_it_slideshow_title_text_ p,
+		.huge_it_slideshow_title_text_ strong,  .huge_it_slideshow_title_text_ strong,
+		.huge_it_slideshow_title_text_ span, .huge_it_slideshow_title_text_ span,
+		.huge_it_slideshow_title_text_ ul, .huge_it_slideshow_title_text_ ul,
+		.huge_it_slideshow_title_text_ li, .huge_it_slideshow_title_text_ li {
+			padding:2px;
+			margin:0;
+		}
+
+		.huge_it_slide_container_ {
+			display: table-cell;
+			margin: 0 auto;
+			position: relative;
+			vertical-align: middle;
+			width:100%;
+			height:100%;
+			_width: inherit;
+			_height: inherit;
+		}
+		.huge_it_slide_bg_ {
+			margin: 0 auto;
+			width:100%;
+			height:100%;
+			_width: inherit;
+			_height: inherit;
+		}
+		.huge_it_slide_bg_ li img{
+			position: absolute;
+					/*top: -0px !important;
+                    left: -0px !important;*/
+			left:0;
+					height: 100%;
+		}
+		.huge_it_slide_bg_ li iframe{
+			width: 100%;
+			height: 100%;
+		}
+		.huge_it_slider_ {
+			width:100%;
+			height:100%;
+			display:table !important;
+			padding:0 !important;
+			margin:0 !important;
+
+		}
+		.huge_it_slideshow_image_item_ {
+			width:100%;
+			height:100%;
+			_width: inherit;
+			_height: inherit;
+			display: table-cell;
+			filter: Alpha(opacity=100);
+			opacity: 1;
+			position: absolute !important;
+			top:0 !important;
+			left:0 !important;
+			vertical-align: middle;
+			z-index: 1;
+			margin:0 !important;
+			padding:0 !important;
+			overflow: hidden !important;
+			border-radius: 0px !important;
+		}
+		.huge_it_slideshow_image_second_item_ {
+			width:100%;
+			height:100%;
+			_width: inherit;
+			_height: inherit;
+			display: table-cell;
+			filter: Alpha(opacity=0);
+			opacity: 0;
+			position: absolute !important;
+			top:0 !important;
+			left:0 !important;
+			vertical-align: middle;
+			overflow:hidden;
+			margin:0 !important;
+			visibility:visible !important;
+			padding:0 !important;
+			border-radius: 0px !important;
+		}
+		.huge_it_slideshow_image_second_item_ a, .huge_it_slideshow_image_item_ a {
+			display:block;
+			width:100%;
+			height:100%;
+		}
+
+		.huge_it_grid_ {
+			display: none;
+			height: 100%;
+			overflow: hidden;
+			position: absolute;
+			width: 100%;
+		}
+		.huge_it_gridlet_ {
+			opacity: 1;
+			filter: Alpha(opacity=100);
+			position: absolute;
+		}
+		.huge_it_slideshow_dots_container_ {
+			display: table;
+			position: absolute;
+			width:100% !important;
+			height:100% !important;
+		}
+		.huge_it_slideshow_dots_thumbnails_ {
+			margin: 0 auto;
+			overflow: hidden;
+			position: absolute;
+			width:100%;
+			height:30px;
+		}
+
+		.huge_it_slideshow_dots_ {
+			display: inline-block;
+			position: relative;
+			cursor: pointer;
+			box-shadow: 1px 1px 1px rgba(0,0,0,0.1) inset, 1px 1px 1px rgba(255,255,255,0.1);
+			width:10px;
+			height: 10px;
+			border-radius: 10px;
+			background: #00f;
+			margin: 10px;
+			overflow: hidden;
+			z-index: 17;
+		}
+
+		.huge_it_slideshow_dots_active_ {
+			opacity: 1;
+			filter: Alpha(opacity=100);
+		}
+		.huge_it_slideshow_dots_deactive_ {
+
+		}
+
+		.huge_it_slideshow_image_wrap_ {
+			background:#ffffff;
+			border-width:0px;
+			border-color:#ffffff;
+			border-radius:0px;
+		}
+		.huge_it_slideshow_image_wrap_.nocolor {
+			background: transparent;
+		}
+
+		.huge_it_slideshow_dots_thumbnails_ {
+				}
+
+		.huge_it_slideshow_dots_ {
+			background:#000000;
+		}
+
+		.huge_it_slideshow_dots_active_ {
+			background:#ffffff;
+		}
+
+				/*//////////////////////slider thunbnail styles start///////////////////////////*/
+
+		.bx-viewport {
+			height: 100px !important;
+			-webkit-transform: translatez(0);
+		}
+		.entry-content .huge_it_slideshow_image_wrap_ a{
+			border-bottom: none !important;
+		}
+		.entry-content .huge_it_slideshow_image_wrap_ li{
+			margin:0 !important;
+			padding: 0 !important;
+		}
+		.entry-content .huge_it_slideshow_image_wrap_ ul{
+			list-style-type:none !important;
+			margin: 0 !important;
+			padding: 0 !important;
+		}
+		.bx-wrapper {
+			position: relative;
+			margin: 0 auto 0 auto;
+			padding: 0;
+			max-width: 600px !important;
+			*zoom: 1;
+			-ms-touch-action: pan-y;
+			touch-action: pan-y;
+		}
+		.huge_it_slideshow_thumbs_container_{
+				}
+		.huge_it_slideshow_thumbs_{
+
+			margin: 0;
+		}
+		.huge_it_slideshow_thumbs_ li{
+			display: inline-block;
+
+			height: 100px ;
+
+		}
+		.huge_it_slideshow_thumbnails_ {
+			display: inline-block;
+			position: relative;
+			cursor: pointer;
+			background: #FFFFFF;
+			z-index: 17;
+			height: 100px;
+		}
+		.sl_thumb_img{
+			width: 100% !important;
+			height: 100% !important;
+			display: block;
+			margin: 0 auto;
+		}
+		.sl_thumb_img2{
+			height: 100% !important;
+			display: block;
+			margin: 0 auto;
+		}
+		.trans_back{
+			width: 100%;
+			height: 100%;
+			top:0;
+			position: absolute;
+			background:rgba(255,255,255,0.5);
+			transition: 0.3s ease;
+		}
+		.trans_back:hover{
+			background:none !important;
+		}
+		.play-icon.youtube {background:url(http://5лицей.рф/wp-content/plugins/slider-image/images/play.youtube.png) center center no-repeat;
+			width: 100%;
+			height: 100%;
+			top:0;
+			position: absolute;}
+
+		.play-icon.vimeo {background:url(http://5лицей.рф/wp-content/plugins/slider-image/images/play.vimeo.png) center center no-repeat;
+			width: 100%;
+			height: 100%;
+			top:0;
+			position: absolute;
+		}
+		.bx-wrapper {
+
+			border: 0 solid #fff;
+			background: #fff;
+		}
+
+		/*////////////slider thunbnail styles end//////////////*/
+
+				#huge_it_slideshow_left_ {
+			left:0;
+			margin-top:-21px;
+			height:43px;
+			width:29px;
+			background:url(http://5лицей.рф/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) left  top no-repeat;
+			background-size: 200%;
+		}
+
+		#huge_it_slideshow_right_ {
+			right:0;
+			margin-top:-21px;
+			height:43px;
+			width:29px;
+			background:url(http://5лицей.рф/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) right top no-repeat;
+			background-size: 200%;
+
+		}
+		
+		/***</add>***/
+
+	</style>
+
+
+	<link rel='stylesheet' id='bxSlidercss-css'  href='http://5лицей.рф/wp-content/plugins/slider-image/style/jquery.bxslider.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='//netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='su-content-shortcodes-css'  href='http://5лицей.рф/wp-content/plugins/shortcodes-ultimate/assets/css/content-shortcodes.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='su-other-shortcodes-css'  href='http://5лицей.рф/wp-content/plugins/shortcodes-ultimate/assets/css/other-shortcodes.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='su-box-shortcodes-css'  href='http://5лицей.рф/wp-content/plugins/shortcodes-ultimate/assets/css/box-shortcodes.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='qtip-css'  href='http://5лицей.рф/wp-content/plugins/shortcodes-ultimate/assets/css/qtip.css?ver=2.1.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://5лицей.рф/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://5лицей.рф/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://5лицей.рф/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://5лицей.рф/wp-content/plugins/wordpress-post-tabs/js/jquery.posttabs.js?ver=1.6.2'></script>
+<script type='text/javascript' src='http://5лицей.рф/wp-content/plugins/comfortable-reading/js/jquery.comfortable.reading.js?ver=1.1'></script>
+<script type='text/javascript' src='http://5лицей.рф/wp-content/plugins/comfortable-reading/js/jquery.cookie.js?ver=1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/5\u043b\u0438\u0446\u0435\u0439.\u0440\u0444\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"\u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u0442\u0435, \u0447\u0442\u043e \u0432\u044b \u043d\u0435 \u0440\u043e\u0431\u043e\u0442."}},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://5лицей.рф/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.1'></script>
+<script type='text/javascript' src='http://5лицей.рф/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox.min.js?ver=1.3.9'></script>
+<script type='text/javascript'>
+var fb_timeout=null;
+var fb_opts={'overlayShow':true,'hideOnOverlayClick':true,'showCloseButton':true,'margin':20,'enableEscapeButton':true };
+if(typeof easy_fancybox_handler==='undefined'){
+var easy_fancybox_handler=function(){
+jQuery('.nofancybox,a.pin-it-button,a[href*="pinterest.com/pin/create"]').addClass('nolightbox');
+/* IMG */
+var fb_IMG_select='a[href*=".jpg"]:not(.nolightbox,li.nolightbox>a),area[href*=".jpg"]:not(.nolightbox),a[href*=".jpeg"]:not(.nolightbox,li.nolightbox>a),area[href*=".jpeg"]:not(.nolightbox),a[href*=".png"]:not(.nolightbox,li.nolightbox>a),area[href*=".png"]:not(.nolightbox)';
+jQuery(fb_IMG_select).addClass('fancybox image');
+var fb_IMG_sections = jQuery('div.gallery');
+fb_IMG_sections.each(function(){jQuery(this).find(fb_IMG_select).attr('rel','gallery-'+fb_IMG_sections.index(this));});
+jQuery('a.fancybox,area.fancybox,li.fancybox a').each(function(){jQuery(this).fancybox(jQuery.extend({},fb_opts,{'transitionIn':'elastic','easingIn':'easeOutBack','transitionOut':'elastic','easingOut':'easeInBack','opacity':false,'hideOnContentClick':false,'titleShow':false,'titlePosition':'over','titleFromAlt':true,'showNavArrows':true,'enableKeyboardNav':true,'cyclic':false}))});};
+jQuery('a.fancybox-close').on('click',function(e){e.preventDefault();jQuery.fancybox.close()});
+};
+var easy_fancybox_auto=function(){setTimeout(function(){jQuery('#fancybox-auto').trigger('click')},1000);};
+jQuery(easy_fancybox_handler);jQuery(document).on('post-load',easy_fancybox_handler);
+jQuery(easy_fancybox_auto);
+</script>
+<script type='text/javascript' src='http://5лицей.рф/wp-content/plugins/easy-fancybox/js/jquery.easing.min.js?ver=1.4.0'></script>
+<script type='text/javascript' src='http://5лицей.рф/wp-content/plugins/easy-fancybox/js/jquery.mousewheel.min.js?ver=3.1.13'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pollsL10n = {"ajax_url":"http:\/\/5\u043b\u0438\u0446\u0435\u0439.\u0440\u0444\/wp-admin\/admin-ajax.php","text_wait":"\u0412\u0430\u0448 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0439 \u0437\u0430\u043f\u0440\u043e\u0441 \u0435\u0449\u0435 \u043e\u0431\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0435\u0442\u0441\u044f. \u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430 \u043f\u043e\u0434\u043e\u0436\u0434\u0438\u0442\u0435 ...","text_valid":"\u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430 \u043a\u043e\u0440\u0440\u0435\u043a\u0442\u043d\u043e \u0432\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u043e\u0442\u0432\u0435\u0442.","text_multiple":"\u041c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u043e\u0435 \u0447\u0438\u0441\u043b\u043e \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u043e\u0432:","show_loading":"1","show_fading":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://5лицей.рф/wp-content/plugins/wp-polls/polls-js.js?ver=2.73.8'></script>
+<script type='text/javascript' src='http://5лицей.рф/wp-includes/js/wp-embed.min.js?ver=4.9.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var hugeit_slider_obj = {"slideCount":"3","pauseTime":"3000","width_thumbs":"200","speed":"1000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://5лицей.рф/wp-content/plugins/slider-image/js/jquery.bxslider.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://5лицей.рф/wp-content/plugins/slider-image/js/bxslider.setup.js?ver=1.0.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var su_other_shortcodes = {"no_preview":"\u042d\u0442\u043e\u0442 \u0448\u043e\u0440\u0442\u043a\u043e\u0434 \u043d\u0435 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440\u0435\u0436\u0438\u043c\u0435 \u043f\u0440\u0435\u0434\u043f\u0440\u043e\u0441\u043c\u043e\u0442\u0440\u0430. \u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430 \u0432\u0441\u0442\u0430\u0432\u044c\u0442\u0435 \u0448\u043e\u0440\u0442\u043a\u043e\u0434 \u0432 \u0440\u0435\u0434\u0430\u043a\u0442\u043e\u0440 \u0438 \u043f\u043e\u0441\u043c\u043e\u0442\u0440\u0438\u0442\u0435 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442 \u043d\u0430 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0435 \u0437\u0430\u043f\u0438\u0441\u0438."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://5лицей.рф/wp-content/plugins/shortcodes-ultimate/assets/js/other-shortcodes.js?ver=5.0.3'></script>
+<script type='text/javascript' src='http://5лицей.рф/wp-content/plugins/shortcodes-ultimate/assets/js/qtip.js?ver=2.1.1'></script>
+
+<!-- Shortcodes Ultimate custom CSS - start -->
+<style type="text/css">
+.su-heading-style-default {
+	padding: 2px 0;
+	border-top: 1px solid #999;
+	border-bottom: 1px solid #999;
+}
+.su-heading-style-default .su-heading-inner {
+	padding: 1em 0.5em;
+	border-top: 4px solid #eee;
+	border-bottom: 4px solid #eee;
+}
+.su-heading.su-heading-align-left { text-align: left; }
+.su-heading.su-heading-align-left .su-heading-inner { padding-left: 0.2em; }
+.su-heading.su-heading-align-right { text-align: right; }
+.su-heading.su-heading-align-right .su-heading-inner { padding-right: 0.2em; }
+.su-heading.su-heading-align-center { text-align: center; }
+
+.su-note {
+	margin: 0 0 1.5em 0;
+	border-width: 1px;
+	border-style: solid;
+}
+.su-note-inner {
+	padding: 1em;
+	border-width: 1px;
+	border-style: solid;
+}
+.su-tabs.my-custom-tabs { background-color: #E3E9F3 }
+.su-tabs-nav span:hover { background: #FDE168; }
+.su-tabs.my-custom-tabs .su-tabs-nav span { font-size: 1.3em }
+.su-tabs.my-custom-tabs .su-tabs-nav span.su-tabs-current {background-color: #265282;color: #fff; }
+.su-tabs.my-custom-tabs .su-tabs-nav span {
+    font-size: 16px;
+    font-family: 'Roboto Condensed', Sans-serif;
+}
+.su-tabs.my-custom-tabs .su-tabs-pane {
+padding: 1em;
+font-size: 17px;
+font-family: 'Roboto Condensed', Sans-serif;
+background-color: #fff;
+}
+</style>
+<!-- Shortcodes Ultimate custom CSS - end -->
+<!-- Yandex.Metrika informer -->
+<a href="https://metrika.yandex.ru/stat/?id=33174743&amp;from=informer"
+target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/33174743/3_0_4E81B8FF_2E6198FF_1_pageviews"
+style="width:88px; height:31px; border:0; margin-left: 75px; margin-top: -20px;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" onclick="try{Ya.Metrika.informer({i:this,id:33174743,lang:'ru'});return false}catch(e){}" /></a>
+<!-- /Yandex.Metrika informer -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter33174743 = new Ya.Metrika({
+                    id:33174743,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true,
+                    trackHash:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/33174743" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+</html>
