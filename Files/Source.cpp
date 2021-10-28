@@ -55,8 +55,8 @@ void main()
 		{
 			fin >> sz_ip_buffer;
 			fin >> sz_mac_buffer;
-			cout << sz_mac_buffer << "\t";
-			cout << sz_ip_buffer << "\n";
+			fout << sz_mac_buffer << "\t";
+			fout << sz_ip_buffer << "\n";
 		}
 	}
 	else
