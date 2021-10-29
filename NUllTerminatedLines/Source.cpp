@@ -11,6 +11,9 @@ void to_upper(char str[]);
 void to_lower(char str[]);
 void shrink(char str[]);
 bool is_palindrome(char str[]);
+bool is_int_number(char str[]);
+bool is_bin_number(char str[]);
+bool is_hex_number(char str[]);
 
 //void main()
 //{
@@ -41,12 +44,20 @@ void main()
 	//SetConsoleCP(866);
 	cout << str << endl;
 	cout << StringLenght(str) << endl;
-	/*to_upper(str);
+	cout << "1-да        0-нет" << endl;
+	cout << "Строка внижнем регистре: " << endl;
+	to_upper(str);
 	cout << str << endl;
+	cout << "Строка в нижнем регистре: " << endl;
 	to_lower(str);
-	cout << str << endl;*/
+	cout << str << endl;
+	cout << "Удаляем лишние пробелы: " << endl;
 	shrink(str);
 	cout << str << endl;
+	cout << "Является ли строка палиндромом: " << is_palindrome(str) << endl;
+	cout << "Является ли строка целым 10-тичным чилом: " << is_int_number(str) << endl;
+	cout <<"Является ли строка 2-ичным числом: " << is_bin_number(str)<<endl;
+	cout << "Является ли строка 16-ричным числом: " << is_hex_number(str) << endl;
 	/*cin >> key;
 	cout << (char)(key - 32);*/
 }
@@ -91,5 +102,103 @@ void shrink(char str[])
 }
 bool is_palindrome(char str[])
 {
-	
+	/*int n=1;
+	for (int i = 0; str[i]; i++)
+	{
+		n++;
+	}*/
+	bool palindrome = 0;
+	 int n = StringLenght(str);
+	for (int i = 0; i<=n; i++)
+	{
+		if (str[i] == str[n-1])
+		{
+			palindrome = 1;
+		}
+		if (str[i] != str[n-1])
+		{
+			break;
+		}
+		n--;
+	}
+	return palindrome;
+}
+bool is_int_number(char str[])
+{
+	bool number = 0;
+	for (int i = 0; str[i]; i++)
+	{
+		if ((str[i] >= '0') && (str[i] <= '9'))
+		{
+			number =1;
+			if (str[0] == '0')
+			{
+				number = 0;
+				break;
+			}
+		}
+		if ((str[i] < '0') && (str[i] > '9'))
+		{
+			number = 0;
+			break;
+		}
+	 }
+	return number;
+}
+bool is_bin_number(char str[])
+{
+	bool number = 0;
+	for (int i = 0; str[i]; i++)
+	{
+		if ((str[i] == '1') || (str[i] == '0'))
+		{
+			number = 1;
+		}
+		if ((str[i] != '1') && (str[i] != '0'))
+		{
+			number = 0;
+			break;
+		}
+	}
+	return number;
+}
+bool is_hex_number(char str[])
+{
+	bool number = 0;
+	for (int i = 0; str[i]; i++)
+	{
+		if ((str[i] >= '0') &&(str[i] <= '9')) 
+		{
+			number = 1;
+		}
+		if ((str[i] >= 'A') && (str[i] <= 'F'))
+		{
+			number= 1;
+		}
+		if ((str[i] >= 'a') && (str[i] <= 'f'))
+		{
+			number = 1;
+		}
+		if ((str[i] < '0') &&(str[i] > '9')) 
+		{
+			number = 0;
+			break;
+		}
+		if ((str[i] < 'A') && (str[i] > 'F'))
+		{
+			number= 0;
+			break;
+		}
+		if ((str[i] <'a') && (str[i] > 'f'))
+		{
+			number = 0;
+			break;
+		}
+		if (str[i] = 'g')
+		{
+			number = 0; break;
+		}
+
+	}
+	return number;
 }
