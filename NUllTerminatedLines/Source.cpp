@@ -44,19 +44,19 @@ void main()
 	//SetConsoleCP(866);
 	cout << str << endl;
 	cout << StringLenght(str) << endl;
-	//cout << "1-да        0-нет" << endl;
-	//cout << "Строка вверхнем регистре: " << endl;
-	//to_upper(str);
-	//cout << str << endl;
-	//cout << "Строка в нижнем регистре: " << endl;
-	//to_lower(str);
-	//cout << str << endl;
-	//cout << "Удаляем лишние пробелы: " << endl;
-	//shrink(str);
-	//cout << str << endl;
-	//cout << "Является ли строка палиндромом: " << is_palindrome(str) << endl;
-	//cout << "Является ли строка целым 10-тичным чилом: " << is_int_number(str) << endl;
-	//cout <<"Является ли строка 2-ичным числом: " << is_bin_number(str)<<endl;
+	cout << "1-да        0-нет" << endl;
+	cout << "Строка вверхнем регистре: " << endl;
+	to_upper(str);
+	cout << str << endl;
+	cout << "Строка в нижнем регистре: " << endl;
+	to_lower(str);
+	cout << str << endl;
+	cout << "Удаляем лишние пробелы: " << endl;
+	shrink(str);
+	cout << str << endl;
+	cout << "Является ли строка палиндромом: " << is_palindrome(str) << endl;
+	cout << "Является ли строка целым 10-тичным чилом: " << is_int_number(str) << endl;
+	cout <<"Является ли строка 2-ичным числом: " << is_bin_number(str)<<endl;
 	cout << "Является ли строка 16-ричным числом: " << is_hex_number(str) << endl;
 	/*cin >> key;
 	cout << (char)(key - 32);*/
@@ -76,6 +76,8 @@ void to_upper(char str[])
 	{
 		if ((str[i] >= 'a') && (str[i] <= 'z'))str[i] = str[i] - 32;
 		if ((str[i] >= 'а') && (str[i] <= 'я'))str[i] = str[i] - 32;
+		//str[i] = toupper(str[i]); //Функция toupper() возвращает принятую букву в верхнем регистре.
+		//Функции toupper() и tolower() находятся в библиотеке ctype.h (ссtype) 	
 	}
 }
 void to_lower(char str[])
@@ -115,7 +117,7 @@ bool is_palindrome(char str[])
 		{
 			palindrome = 1;
 		}
-		if (str[i] != str[n-1])
+		else if (str[i] != str[n-1])
 		{
 			break;
 		}
@@ -198,7 +200,6 @@ bool is_hex_number(char str[])
 		{
 			number = 0; break;
 		}*/
-
 	}
 	return number;
 }
