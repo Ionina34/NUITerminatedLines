@@ -194,10 +194,10 @@ bool is_hex_number(char str[])
 			number = 0;
 			break;
 		}
-		else if (str[i] == 'g')
+		/*else if (str[i] == 'g')
 		{
 			number = 0; break;
-		}
+		}*/
 
 	}
 	return number;
