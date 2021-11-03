@@ -44,19 +44,19 @@ void main()
 	//SetConsoleCP(866);
 	cout << str << endl;
 	cout << StringLenght(str) << endl;
-	cout << "1-да        0-нет" << endl;
-	cout << "Строка внижнем регистре: " << endl;
-	to_upper(str);
-	cout << str << endl;
-	cout << "Строка в нижнем регистре: " << endl;
-	to_lower(str);
-	cout << str << endl;
-	cout << "Удаляем лишние пробелы: " << endl;
-	shrink(str);
-	cout << str << endl;
-	cout << "Является ли строка палиндромом: " << is_palindrome(str) << endl;
-	cout << "Является ли строка целым 10-тичным чилом: " << is_int_number(str) << endl;
-	cout <<"Является ли строка 2-ичным числом: " << is_bin_number(str)<<endl;
+	//cout << "1-да        0-нет" << endl;
+	//cout << "Строка вверхнем регистре: " << endl;
+	//to_upper(str);
+	//cout << str << endl;
+	//cout << "Строка в нижнем регистре: " << endl;
+	//to_lower(str);
+	//cout << str << endl;
+	//cout << "Удаляем лишние пробелы: " << endl;
+	//shrink(str);
+	//cout << str << endl;
+	//cout << "Является ли строка палиндромом: " << is_palindrome(str) << endl;
+	//cout << "Является ли строка целым 10-тичным чилом: " << is_int_number(str) << endl;
+	//cout <<"Является ли строка 2-ичным числом: " << is_bin_number(str)<<endl;
 	cout << "Является ли строка 16-ричным числом: " << is_hex_number(str) << endl;
 	/*cin >> key;
 	cout << (char)(key - 32);*/
@@ -171,30 +171,30 @@ bool is_hex_number(char str[])
 		{
 			number = 1;
 		}
-		if ((str[i] >= 'A') && (str[i] <= 'F'))
+		 else if((str[i] >= 'A') && (str[i] <= 'F'))
 		{
 			number= 1;
 		}
-		if ((str[i] >= 'a') && (str[i] <= 'f'))
+		else if ((str[i] >= 'a') && (str[i] <= 'f'))
 		{
 			number = 1;
 		}
-		if ((str[i] < '0') &&(str[i] > '9')) 
+		else if ((str[i] < '0') ||(str[i] > '9'))
 		{
 			number = 0;
 			break;
 		}
-		if ((str[i] < 'A') && (str[i] > 'F'))
+		else if ((str[i] < 'A') || (str[i] > 'F'))
 		{
 			number= 0;
 			break;
 		}
-		if ((str[i] <'a') && (str[i] > 'f'))
+		else if ((str[i] <'a') || (str[i] > 'f'))
 		{
 			number = 0;
 			break;
 		}
-		if (str[i] = 'g')
+		else if (str[i] == 'g')
 		{
 			number = 0; break;
 		}
