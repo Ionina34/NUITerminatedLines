@@ -5,6 +5,8 @@ using namespace std;
 
 #define tab "\t"
 #define Escape 27
+//#define KEY
+//#define NULLTERMINATEDLINES
 
 int StringLenght(char str[]);//Принимаепт строку и  возвращает размер строки(кол-во символов в строке);
 void to_upper(char str[]);
@@ -14,16 +16,22 @@ bool is_palindrome(char str[]);
 bool is_int_number(char str[]);
 bool is_bin_number(char str[]);
 bool is_hex_number(char str[]);
+int string_to_int(char str[]);
+int bin_to_int(char str[]);
+int hex_to_int(char str[]);
 
-//void main()
-//{
-//	char key;
-//	do
-//	{
-//		key = _getch();
-//		cout << (int)key << tab << key << endl;
-//	} while (key != Escape);
-//}
+#ifdef KEY
+void main()
+{
+	char key;
+	do
+	{
+		key = _getch();
+		cout << int(key) << tab << key << endl;
+	} while (key != Escape);
+}
+#endif // KEY
+
 
 void main()
 {
@@ -44,6 +52,8 @@ void main()
 	//SetConsoleCP(866);
 	cout << str << endl;
 	cout << StringLenght(str) << endl;
+
+#ifdef NULLTERMINATEDLINES
 	cout << "1-да        0-нет" << endl;
 	cout << "Строка вверхнем регистре: " << endl;
 	to_upper(str);
@@ -56,8 +66,14 @@ void main()
 	cout << str << endl;
 	cout << "Является ли строка палиндромом: " << is_palindrome(str) << endl;
 	cout << "Является ли строка целым 10-тичным чилом: " << is_int_number(str) << endl;
-	cout <<"Является ли строка 2-ичным числом: " << is_bin_number(str)<<endl;
+	cout << "Является ли строка 2-ичным числом: " << is_bin_number(str) << endl;
 	cout << "Является ли строка 16-ричным числом: " << is_hex_number(str) << endl;
+#endif // NULLTERMINATEDLINES
+
+	cout << string_to_int(str) << endl;
+	cout << bin_to_int(str) << endl;
+	cout << hex_to_int(str) << endl;
+
 	/*cin >> key;
 	cout << (char)(key - 32);*/
 }
@@ -110,14 +126,14 @@ bool is_palindrome(char str[])
 		n++;
 	}*/
 	bool palindrome = 0;
-	 int n = StringLenght(str);
-	for (int i = 0; i<=n; i++)
+	int n = StringLenght(str);
+	for (int i = 0; i <= n; i++)
 	{
-		if (str[i] == str[n-1])
+		if (str[i] == str[n - 1])
 		{
 			palindrome = 1;
 		}
-		else if (str[i] != str[n-1])
+		else if (str[i] != str[n - 1])
 		{
 			break;
 		}
@@ -130,21 +146,19 @@ bool is_int_number(char str[])
 	bool number = 0;
 	for (int i = 0; str[i]; i++)
 	{
-		if ((str[i] >= '0') && (str[i] <= '9'))
+		if (str[0] == '0')
 		{
-			number =1;
-			if (str[0] == '0')
-			{
-				number = 0;
-				break;
-			}
+			number = 0; break;
 		}
-		if ((str[i] < '0') && (str[i] > '9'))
+		if ((str[i] <= '0') ||(str[i] >= '9'))
 		{
-			number = 0;
-			break;
+			number = 0; break;
 		}
-	 }
+		else if ((str[i] >= '0') && (str[i] <= '9'))
+		{
+			number = 1;
+		}
+	}
 	return number;
 }
 bool is_bin_number(char str[])
@@ -158,8 +172,7 @@ bool is_bin_number(char str[])
 		}
 		if ((str[i] != '1') && (str[i] != '0'))
 		{
-			number = 0;
-			break;
+			number = 0; break;
 		}
 	}
 	return number;
@@ -169,32 +182,29 @@ bool is_hex_number(char str[])
 	bool number = 0;
 	for (int i = 0; str[i]; i++)
 	{
-		if ((str[i] >= '0') &&(str[i] <= '9')) 
+		if ((str[i] >= '0') && (str[i] <= '9'))
 		{
 			number = 1;
 		}
-		 else if((str[i] >= 'A') && (str[i] <= 'F'))
+		else if ((str[i] >= 'A') && (str[i] <= 'F'))
 		{
-			number= 1;
+			number = 1;
 		}
 		else if ((str[i] >= 'a') && (str[i] <= 'f'))
 		{
 			number = 1;
 		}
-		else if ((str[i] < '0') ||(str[i] > '9'))
+		else if ((str[i] < '0') || (str[i] > '9'))
 		{
-			number = 0;
-			break;
+			number = 0; break;
 		}
 		else if ((str[i] < 'A') || (str[i] > 'F'))
 		{
-			number= 0;
-			break;
+			number = 0; break;
 		}
-		else if ((str[i] <'a') || (str[i] > 'f'))
+		else if ((str[i] < 'a') || (str[i] > 'f'))
 		{
-			number = 0;
-			break;
+			number = 0; break;
 		}
 		/*else if (str[i] == 'g')
 		{
@@ -202,4 +212,64 @@ bool is_hex_number(char str[])
 		}*/
 	}
 	return number;
+}
+int string_to_int(char str[])
+{
+	int znachenie = 0;
+	if (is_int_number(str) == 1)
+	{
+		for (int i = 0; str[i]; i++)
+		{
+			znachenie = znachenie * 10 + (str[i]-'0');
+		}
+	}
+	else
+	{
+		cout << "Число не является десятичным!" << endl;
+		//znachenie = 0;
+	}
+	return znachenie;
+}
+int bin_to_int(char str[])
+{
+	int znachenie = 0;
+	if (is_bin_number(str) == 1)
+	{
+		for (int i = 0; str[i]; i++)
+		{
+			znachenie = znachenie * 2 + (str[i]-'0');
+		}
+	}
+	else
+	{
+		cout << "Число не является двоичным!" << endl;
+	}
+	return znachenie;
+}
+int hex_to_int(char str[])
+{
+	int znachenie = 0;
+	if (is_hex_number(str))
+	{
+		for (int i = 0; str[i]; i++)
+		{
+			if (str[i] >= '0' && str[i] <= '9')
+			{
+				znachenie = znachenie * 16 + (str[i] - '0');
+			}
+			if (str[i] >= 'a' && str[i] <= 'f')
+			{
+				znachenie = znachenie * 16 + (str[i] - 87);
+			}
+			if (str[i] >= 'A' && str[i] <= 'F')
+			{
+				znachenie = znachenie * 16 + (str[i] - 55);
+			}
+		}
+	}
+	else
+	{
+		cout << "Число не является шестнадцатеричным!" << endl;
+	}
+	return znachenie;
 }
